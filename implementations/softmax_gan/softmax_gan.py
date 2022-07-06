@@ -138,6 +138,7 @@ for epoch in range(opt.n_epochs):
         real_imgs = Variable(imgs.type(Tensor))
 
         # Sample noise as generator input
+
         z = Variable(Tensor(np.random.normal(0, 1, (imgs.shape[0], opt.latent_dim))))
         # Generate a batch of images
         gen_imgs = generator(z)

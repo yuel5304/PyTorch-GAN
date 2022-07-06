@@ -1,3 +1,5 @@
+import sys
+sys.path.append("./")
 import argparse
 import os
 import numpy as np
@@ -17,7 +19,7 @@ import torch
 
 from data.utils import *
 
-
+""" 
 parser = argparse.ArgumentParser()
 parser.add_argument("--n_epochs", type=int, default=200, help="number of epochs of training")
 parser.add_argument("--batch_size", type=int, default=64, help="size of the batches")
@@ -31,8 +33,8 @@ parser.add_argument("--clip_value", type=float, default=0.01, help="lower and up
 parser.add_argument("--sample_interval", type=int, default=400, help="interval between image samples")
 opt = parser.parse_args()
 print(opt)
-
-img_shape = (opt.channels, opt.img_size, opt.img_size)
+"""
+img_shape = (1, 28, 28)#(opt.channels, opt.img_size, opt.img_size)
 
 cuda = True if torch.cuda.is_available() else False
 
@@ -49,7 +51,7 @@ class Generator(nn.Module):
             return layers
 
         self.model = nn.Sequential(
-            *block(opt.latent_dim, 128, normalize=False),
+            *block(784, 128, normalize=False),
             *block(128, 256),
             *block(256, 512),
             *block(512, 1024),
@@ -61,38 +63,22 @@ class Generator(nn.Module):
         img = self.model(z)
         img = img.view(img.shape[0], *img_shape)
         return img
-"""
+
+
 class Discriminator(nn.Module):
     #logistic regression
-    def __init__(self, n_features):
-        super(LinearRegression, self).__init__()
-        self.linear = Linear(n_features, 1)
+    def __init__(self):
+        super(Discriminator, self).__init__()
+        self.linear = torch.nn.Linear(784, 10)
         self.criterion = torch.nn.CrossEntropyLoss()
 
     def forward(self, img, label):
-        y_pred = self.predict(img)
+        y_pred = self.predict(img.view(-1))
         return self.criterion(y_pred, label)
 
     def predict(self, x):
-        y_pred = self.linear(x)
+        y_pred = self.linear(x.view(-1))
         return y_pred
-""" 
-class Discriminator(nn.Module):
-    def __init__(self):
-        super(Discriminator, self).__init__()
-
-        self.model = nn.Sequential(
-            nn.Linear(int(np.prod(img_shape)), 512),
-            nn.LeakyReLU(0.2, inplace=True),
-            nn.Linear(512, 256),
-            nn.LeakyReLU(0.2, inplace=True),
-            nn.Linear(256, 1),
-        )
-
-    def forward(self, img):
-        img_flat = img.view(img.shape[0], -1)
-        validity = self.model(img_flat)
-        return validity
 
 
 # Initialize generator and discriminator
@@ -107,21 +93,27 @@ if cuda:
 
 train_dataset, test_dataset = data_processor("mnist")
 
+missing_dataloader = torch.utils.data.DataLoader(
+    missing(train_dataset, 1, 0.1),
+    batch_size=128,
+    shuffle=True,
+)
+
 train_dataloader = torch.utils.data.DataLoader(
     train_dataset,
-    batch_size=opt.batch_size,
+    batch_size=128,
     shuffle=True,
 )
 
 test_dataloader = torch.utils.data.DataLoader(
     test_dataset,
-    batch_size=opt.batch_size,
+    batch_size=128,
     shuffle=True,
 )
 
 # Optimizers
-optimizer_G = torch.optim.RMSprop(generator.parameters(), lr=opt.lr)
-optimizer_D = torch.optim.RMSprop(discriminator.parameters(), lr=opt.lr)
+optimizer_G = torch.optim.RMSprop(generator.parameters(), lr=0.1)
+optimizer_D = torch.optim.RMSprop(discriminator.parameters(), lr=0.1)
 
 Tensor = torch.cuda.FloatTensor if cuda else torch.FloatTensor
 
@@ -130,12 +122,12 @@ Tensor = torch.cuda.FloatTensor if cuda else torch.FloatTensor
 # ----------
 
 batches_done = 0
-for epoch in range(opt.n_epochs):
+print("start training")
+for epoch in range(20):
 
-    for i, (imgs, labels) in enumerate(dataloader):
+    for i, (imgs, labels), (m_imgs, m_labels, miss) in enumerate(zip(train_dataloader, missing_dataloader)):
 
         # Configure input
-        real_imgs = Variable(imgs.type(Tensor))
 
         # ---------------------
         #  Train Discriminator
@@ -144,12 +136,18 @@ for epoch in range(opt.n_epochs):
         optimizer_D.zero_grad()
 
         # Sample noise as generator input
-        z = Variable(Tensor(np.random.normal(0, 1, (imgs.shape[0], opt.latent_dim))))
+        z = Variable(Tensor(np.random.normal(0, 1, (m_img.shape))))
+        # combined with imputation to missing value
+        imputed_img = Variable(m_imgs.type(Tensor)) * miss + z * (1-miss)
 
         # Generate a batch of images
-        fake_imgs = generator(z).detach()
+        fake_imgs = generator(imputed_img).detach()
+        #fake_imgs = generator(z).detach()
+        # imputation
+        fake_imgs = (miss == 0)*fake_imgs + (miss == 1)
+
         # Adversarial loss: get the worst case for current generator.
-        loss_D = -torch.mean(discriminator(real_imgs, labels)) + torch.mean(discriminator(fake_imgs, labels))
+        loss_D = -torch.mean(discriminator(imgs, labels)) + torch.mean(discriminator(fake_imgs, m_labels))
 
         loss_D.backward()
         optimizer_D.step()  # update discriminator
@@ -159,7 +157,7 @@ for epoch in range(opt.n_epochs):
         #    p.data.clamp_(-opt.clip_value, opt.clip_value)
 
         # Train the generator every n_critic iterations
-        if i % opt.n_critic == 0:
+        if i % 1 == 0:
 
             # -----------------
             #  Train Generator
@@ -177,12 +175,9 @@ for epoch in range(opt.n_epochs):
 
             print(
                 "[Epoch %d/%d] [Batch %d/%d] [D loss: %f] [G loss: %f]"
-                % (epoch, opt.n_epochs, batches_done % len(dataloader), len(dataloader), loss_D.item(), loss_G.item())
+                % (epoch, 20, batches_done % len(train_dataloader), len(train_dataloader), loss_D.item(), loss_G.item())
             )
 
-        if batches_done % opt.sample_interval == 0:
+        #if batches_done % opt.sample_interval == 0:
             #save_image(gen_imgs.data[:25], "images/%d.png" % batches_done, nrow=5, normalize=True)
-            for imgs, label in test_loader:
-                predict = discriminator(imgs)
-
-        batches_done += 1
+        #batches_done += 1

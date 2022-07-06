@@ -6,8 +6,10 @@ import math
 from torchvision.utils import save_image
 
 from torch.utils.data import DataLoader
+import torchvision.transforms as transforms
 from torchvision import datasets
 from torch.autograd import Variable
+
 
 
 import time
@@ -16,7 +18,7 @@ import sys
 sys.path.append("./")
 from mnist_gan import  real_loss, fake_loss
 #from gcan import Generator, Discriminator
-from test_net import Generator, Discriminator
+from test_net import Generator, Discriminator, criterion
 from utils import *
 import copy
 
@@ -30,6 +32,8 @@ parser.add_argument("--b1", type=float, default=0.9, help="adam: decay of first 
 parser.add_argument("--b2", type=float, default=0.999, help="adam: decay of first order momentum of gradient")
 parser.add_argument("--n_cpu", type=int, default=1, help="number of cpu threads to use during batch generation")
 parser.add_argument("--num_label", type=int, default=10, help="number of cpu threads to use during batch generation")
+parser.add_argument("--prob", type=float, default=0, help="probability of missing value")
+
 #parser.add_argument("--sample_interval", type=int, default=400, help="interval betwen image samples")
 opt = parser.parse_args()
 print(opt)
@@ -38,7 +42,7 @@ print(opt)
 # 1
 input_size = 28*28
 # 2
-d_output_size = opt.num_label+1
+d_output_size =  (opt.num_label+1)*input_size
 print(opt.num_label)
 # 3
 d_hidden_size = 256#32
@@ -55,8 +59,7 @@ cuda = True if torch.cuda.is_available() else False
 
 
 # Loss function
-criterion = torch.nn.CrossEntropyLoss(reduction='sum')#torch.nn.BCELoss()
-#criterion = torch.nn.BCELoss()
+criterion = criterion
 
 # Initialize generator and discriminator
 generator = Generator(z_size, g_hidden_size, g_output_size)
@@ -77,7 +80,7 @@ else:
 # Configure data loader
 os.makedirs("../../data/mnist", exist_ok=True)
 
-
+#train_transform = transform
 _, test_partition = partition('mnist', num_label=opt.num_label, download=True, transform=transforms.ToTensor())
 #train_dataloader_list = [DataLoader(train_partition[i], batch_size=opt.batch_size, shuffle=True,) for i in range(opt.num_label)]
 test_dataloader_list = [DataLoader(test_partition[i], batch_size=opt.batch_size, shuffle=True) for i in range(opt.num_label)]
@@ -104,78 +107,80 @@ Tensor = torch.cuda.FloatTensor if cuda else torch.FloatTensor
 batch = 0
 step = 1
 stamp = time.time()
-for image_8, _ in test_dataloader_list[7]:
-    break
-softmax = torch.nn.Softmax()
+
+predict = torch.nn.Softmax(dim=1)
 for epoch in range(opt.n_epochs):
     for idx, (imgs, labels) in enumerate(train_dataloader):
         batch += 1
-
-
-            # Configure input
-        fake_labels = Variable(torch.ones(imgs.shape[0]).long() * opt.num_label, requires_grad=False)
-            # Sample noise as generator input
-        z = Variable(Tensor(np.random.normal(0, 1, (imgs.shape[0], z_size))))
+        imgs = imgs.view(-1, input_size)
+        # create missing values mask
+        m = torch.bernoulli(torch.ones(imgs.shape)*(1-opt.prob))
+        #print(m.sum().item()/m.shape[0]/m.shape[1])
+        # Configure input
+        # Sample noise as generator input
+        
+        z = Variable(Tensor(np.random.normal(0, 1, (int(imgs.shape[0]), z_size))))
+        gen_imgs = generator(z)
+        # configure
+        x_hat = imgs*m + gen_imgs*(1-m)
         # ---------------------
         #  Train Discriminator
         # ---------------------
 
         optimizer_D.zero_grad()
         optimizer_G.zero_grad()
-        gen_imgs = generator(z)
 
         # Measure discriminator's ability to classify real from generated samples
-        real = criterion(discriminator(imgs), labels)
-        fake = criterion(discriminator(gen_imgs), fake_labels)
-        d_loss = (real + fake)/(imgs.shape[0]+gen_imgs.shape[0])
-   
+        # configure new label to be d-dimensional
+        num_sample, num_dim = imgs.shape
+        dim_labels = []
+        for i in range(num_sample):
+            y = labels[i] * torch.ones(num_dim)
+            fake = opt.num_label * torch.ones(num_dim)
+            dim_labels.append(y*m[i,:] + fake*(1-m[i,:]))
+        dim_labels = torch.stack(dim_labels, dim=0)
 
-        d_loss.backward()
+        loss = -criterion(discriminator(x_hat), dim_labels, opt.num_label)
+
+        loss.backward()
         optimizer_D.step()
+        
+        for param in generator.parameters():
+            param.grad.data = -param.grad.data.clone()
+        optimizer_G.step()
 
-        if batch % 1 == 0:
-            # -----------------
-            #  Train Generator
-            # -----------------
-            
-            for param in generator.parameters():
-                param.grad.data = - param.grad.data
-            # Generate a batch of images
-            #z = Variable(Tensor(np.random.normal(0, 1, (imgs.shape[0], z_size))))
-            #gen_imgs = generator(z)
-            #g_loss = torch.log(softmax(discriminator(gen_imgs))[:, opt.num_label]).mean()
-            #g_loss.backward()
-            optimizer_G.step()
 
         # -----------------
         #  Test
         # -----------------
-        if batch % len(train_dataloader) == 0:
-
-            z = Variable(Tensor(np.random.normal(0, 1, (imgs.shape[0], z_size))))
-            gen_imgs = generator(z)
-            print(
-                "[epoch: %d] [D loss: %f] [D value on g(z): %f] [D value on x: %f] [G loss: %f]"
-                % (epoch, d_loss.item(), torch.mean(softmax(discriminator(gen_imgs))[:, 0:opt.num_label].sum(axis=1)).item(),
-                   torch.mean(softmax(discriminator(image_8))[:, 0:opt.num_label].sum(axis=1)).item(),
-                   fake.item()/gem_imgs.shape[0])
-            )
-            z = Variable(Tensor(np.random.normal(0, 1, (1, z_size))))
-            gen_imgs = generator(z).reshape((28, 28))
-            save_image(gen_imgs.data, "images/%d.png" % (batch), normalize=True)
-
+        if batch % 10 == 0:
 
             correct = 0
             total = 0
             for label in range(opt.num_label):
-                for real_imgs, labels in test_dataloader_list[label]:
-                    prob = softmax(discriminator(real_imgs))[:, 0:opt.num_label]
-                    for i in range(prob.shape[0]):
-                        prob[i, :] /= prob[i, :].sum()
-                    _, predicted = torch.max(prob, 1)
-                    correct += (predicted == labels).sum().item()
-                    total += len(real_imgs)
+                for real_imgs, targets in test_dataloader_list[label]:
+                    #print(real_imgs.shape)
+                    real_imgs = real_imgs.view(-1, input_size)
+                    num_sample, num_dim = real_imgs.shape
+                    outputs = discriminator(real_imgs)
+                    for i in range(num_sample):
+                        prob = predict(outputs[i].reshape((num_dim, opt.num_label+1)))
+                        for j in range(num_dim):
+                            prob[j, :] /= 1- prob[j, opt.num_label]
+                        map_hat = torch.mean(prob, dim=0)
+                        #_, predicted = torch.max(prob[:, 0:opt.num_label], 1)
+                        #label = torch.argmax(torch.bincount(predicted, minlength=opt.num_label))
+                        _, label = torch.max(map_hat, 1)
+                        correct += (targets[i] == label).item()
+                    total += num_sample
+                    break
                     # break
 
             print("classification: {}".format(correct / total))
+        if batch % 100 == 0:
+            print("[batch: %d] [loss: %f]" % (batch, loss.item()))
+            z = Variable(Tensor(np.random.normal(0, 1, (1, z_size))))
+            gen_imgs = generator(z).reshape((28, 28))
+            save_image(gen_imgs.data, "images/%d.png" % (batch), normalize=True)
+
 

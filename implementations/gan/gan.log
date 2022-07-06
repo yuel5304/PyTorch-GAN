@@ -1,0 +1,2000 @@
+[epoch: 0] [D loss: 1.253967] [D value on g(z): 0.194050] [D value on x: 0.895284] [G loss: 1.628911]
+classification: 0.8426
+[epoch: 1] [D loss: 0.580979] [D value on g(z): 0.555162] [D value on x: 0.906858] [G loss: 0.571323]
+classification: 0.8781
+[epoch: 2] [D loss: 0.650372] [D value on g(z): 0.491114] [D value on x: 0.951934] [G loss: 0.797852]
+classification: 0.8882
+[epoch: 3] [D loss: 0.523407] [D value on g(z): 0.706389] [D value on x: 0.892108] [G loss: 0.401334]
+classification: 0.8775
+[epoch: 4] [D loss: 0.262628] [D value on g(z): 0.919160] [D value on x: 0.906660] [G loss: 0.097273]
+classification: 0.8934
+[epoch: 5] [D loss: 0.479989] [D value on g(z): 0.819129] [D value on x: 0.913133] [G loss: 0.211790]
+classification: 0.8741
+[epoch: 6] [D loss: 0.471174] [D value on g(z): 0.762776] [D value on x: 0.928272] [G loss: 0.256172]
+classification: 0.8803
+[epoch: 7] [D loss: 0.482485] [D value on g(z): 0.816723] [D value on x: 0.910930] [G loss: 0.101098]
+classification: 0.8917
+[epoch: 8] [D loss: 0.471004] [D value on g(z): 0.806534] [D value on x: 0.958641] [G loss: 0.225881]
+classification: 0.8907
+[epoch: 9] [D loss: 0.338392] [D value on g(z): 0.908264] [D value on x: 0.982912] [G loss: 0.108815]
+classification: 0.9028
+[epoch: 10] [D loss: 0.316517] [D value on g(z): 0.913192] [D value on x: 0.983074] [G loss: 0.055878]
+classification: 0.8994
+[epoch: 11] [D loss: 0.408507] [D value on g(z): 0.896562] [D value on x: 0.925986] [G loss: 0.125201]
+classification: 0.8731
+[epoch: 12] [D loss: 0.267502] [D value on g(z): 0.940886] [D value on x: 0.988890] [G loss: 0.068330]
+classification: 0.9046
+[epoch: 13] [D loss: 0.225901] [D value on g(z): 0.924014] [D value on x: 0.924097] [G loss: 0.079332]
+classification: 0.9097
+[epoch: 14] [D loss: 0.427407] [D value on g(z): 0.746841] [D value on x: 0.927329] [G loss: 0.272919]
+classification: 0.8834
+[epoch: 15] [D loss: 0.316662] [D value on g(z): 0.853408] [D value on x: 0.952088] [G loss: 0.140352]
+classification: 0.881
+[epoch: 16] [D loss: 0.258308] [D value on g(z): 0.942111] [D value on x: 0.967019] [G loss: 0.076251]
+classification: 0.9126
+[epoch: 17] [D loss: 0.566949] [D value on g(z): 0.760591] [D value on x: 0.931950] [G loss: 0.318388]
+classification: 0.8959
+[epoch: 18] [D loss: 0.513181] [D value on g(z): 0.778826] [D value on x: 0.945592] [G loss: 0.242807]
+classification: 0.9089
+[epoch: 19] [D loss: 0.349051] [D value on g(z): 0.887662] [D value on x: 0.967158] [G loss: 0.139739]
+classification: 0.9199
+[epoch: 20] [D loss: 0.242626] [D value on g(z): 0.962268] [D value on x: 0.981359] [G loss: 0.047506]
+classification: 0.9228
+[epoch: 21] [D loss: 0.306668] [D value on g(z): 0.864901] [D value on x: 0.982295] [G loss: 0.172408]
+classification: 0.9143
+[epoch: 22] [D loss: 0.304394] [D value on g(z): 0.894806] [D value on x: 0.495524] [G loss: 0.141545]
+classification: 0.9107
+[epoch: 23] [D loss: 0.412245] [D value on g(z): 0.772626] [D value on x: 0.906766] [G loss: 0.258454]
+classification: 0.9156
+[epoch: 24] [D loss: 0.279758] [D value on g(z): 0.880455] [D value on x: 0.946090] [G loss: 0.201798]
+classification: 0.9218
+[epoch: 25] [D loss: 0.357387] [D value on g(z): 0.832455] [D value on x: 0.870280] [G loss: 0.202695]
+classification: 0.9204
+[epoch: 26] [D loss: 0.466280] [D value on g(z): 0.776811] [D value on x: 0.863974] [G loss: 0.349233]
+classification: 0.913
+[epoch: 27] [D loss: 0.265067] [D value on g(z): 0.897078] [D value on x: 0.963294] [G loss: 0.099261]
+classification: 0.9207
+[epoch: 28] [D loss: 0.342303] [D value on g(z): 0.847543] [D value on x: 0.946609] [G loss: 0.104460]
+classification: 0.9205
+[epoch: 29] [D loss: 0.367345] [D value on g(z): 0.868373] [D value on x: 0.968940] [G loss: 0.118606]
+classification: 0.9301
+[epoch: 30] [D loss: 0.410260] [D value on g(z): 0.843399] [D value on x: 0.951345] [G loss: 0.219920]
+classification: 0.9248
+[epoch: 31] [D loss: 0.487777] [D value on g(z): 0.733075] [D value on x: 0.966531] [G loss: 0.279082]
+classification: 0.9173
+[epoch: 32] [D loss: 0.198217] [D value on g(z): 0.954807] [D value on x: 0.976677] [G loss: 0.065306]
+classification: 0.9341
+[epoch: 33] [D loss: 0.311438] [D value on g(z): 0.840580] [D value on x: 0.956130] [G loss: 0.180720]
+classification: 0.9312
+[epoch: 34] [D loss: 0.365800] [D value on g(z): 0.873559] [D value on x: 0.981634] [G loss: 0.212423]
+classification: 0.9338
+[epoch: 35] [D loss: 0.271780] [D value on g(z): 0.858195] [D value on x: 0.971876] [G loss: 0.109491]
+classification: 0.9344
+[epoch: 36] [D loss: 0.326452] [D value on g(z): 0.834949] [D value on x: 0.923255] [G loss: 0.219388]
+classification: 0.9351
+[epoch: 37] [D loss: 0.439306] [D value on g(z): 0.808598] [D value on x: 0.309999] [G loss: 0.103301]
+classification: 0.9137
+[epoch: 38] [D loss: 0.319906] [D value on g(z): 0.827043] [D value on x: 0.943386] [G loss: 0.332984]
+classification: 0.9374
+[epoch: 39] [D loss: 0.191708] [D value on g(z): 0.908305] [D value on x: 0.876112] [G loss: 0.097153]
+classification: 0.939
+[epoch: 40] [D loss: 0.273457] [D value on g(z): 0.903982] [D value on x: 0.842414] [G loss: 0.148391]
+classification: 0.945
+[epoch: 41] [D loss: 0.186863] [D value on g(z): 0.896057] [D value on x: 0.909776] [G loss: 0.088695]
+classification: 0.9458
+[epoch: 42] [D loss: 0.153315] [D value on g(z): 0.946747] [D value on x: 0.946249] [G loss: 0.063546]
+classification: 0.9439
+[epoch: 43] [D loss: 0.210594] [D value on g(z): 0.785263] [D value on x: 0.801389] [G loss: 0.197423]
+classification: 0.9436
+[epoch: 44] [D loss: 0.306733] [D value on g(z): 0.756684] [D value on x: 0.780957] [G loss: 0.363760]
+classification: 0.9339
+[epoch: 45] [D loss: 0.236059] [D value on g(z): 0.926234] [D value on x: 0.890677] [G loss: 0.090312]
+classification: 0.9402
+[epoch: 46] [D loss: 0.187668] [D value on g(z): 0.896111] [D value on x: 0.797802] [G loss: 0.125423]
+classification: 0.9406
+[epoch: 47] [D loss: 0.206221] [D value on g(z): 0.909883] [D value on x: 0.900709] [G loss: 0.065917]
+classification: 0.9438
+[epoch: 48] [D loss: 0.281424] [D value on g(z): 0.796424] [D value on x: 0.830870] [G loss: 0.209063]
+classification: 0.9424
+[epoch: 49] [D loss: 0.122641] [D value on g(z): 0.942552] [D value on x: 0.937404] [G loss: 0.075656]
+classification: 0.9512
+[epoch: 50] [D loss: 0.327910] [D value on g(z): 0.914581] [D value on x: 0.877877] [G loss: 0.251174]
+classification: 0.9521
+[epoch: 51] [D loss: 0.249768] [D value on g(z): 0.897763] [D value on x: 0.910742] [G loss: 0.125944]
+classification: 0.9489
+[epoch: 52] [D loss: 0.197435] [D value on g(z): 0.928854] [D value on x: 0.824908] [G loss: 0.057534]
+classification: 0.95
+[epoch: 53] [D loss: 0.241892] [D value on g(z): 0.880097] [D value on x: 0.891495] [G loss: 0.103132]
+classification: 0.9519
+[epoch: 54] [D loss: 0.414005] [D value on g(z): 0.852922] [D value on x: 0.894986] [G loss: 0.169519]
+classification: 0.9515
+[epoch: 55] [D loss: 0.349193] [D value on g(z): 0.800624] [D value on x: 0.774071] [G loss: 0.278049]
+classification: 0.9511
+[epoch: 56] [D loss: 0.608174] [D value on g(z): 0.768927] [D value on x: 0.697212] [G loss: 0.527028]
+classification: 0.9459
+[epoch: 57] [D loss: 0.268982] [D value on g(z): 0.875490] [D value on x: 0.863158] [G loss: 0.112488]
+classification: 0.9499
+[epoch: 58] [D loss: 0.202980] [D value on g(z): 0.895653] [D value on x: 0.909599] [G loss: 0.061738]
+classification: 0.952
+[epoch: 59] [D loss: 0.366534] [D value on g(z): 0.780270] [D value on x: 0.954123] [G loss: 0.309101]
+classification: 0.9497
+[epoch: 60] [D loss: 0.357173] [D value on g(z): 0.817034] [D value on x: 0.973925] [G loss: 0.119008]
+classification: 0.9425
+[epoch: 61] [D loss: 0.161499] [D value on g(z): 0.850516] [D value on x: 0.934145] [G loss: 0.101942]
+classification: 0.948
+[epoch: 62] [D loss: 0.202978] [D value on g(z): 0.880708] [D value on x: 0.939913] [G loss: 0.069560]
+classification: 0.9529
+[epoch: 63] [D loss: 0.287336] [D value on g(z): 0.828048] [D value on x: 0.940525] [G loss: 0.200458]
+classification: 0.9501
+[epoch: 64] [D loss: 0.206670] [D value on g(z): 0.964080] [D value on x: 0.983858] [G loss: 0.050543]
+classification: 0.9573
+[epoch: 65] [D loss: 0.190427] [D value on g(z): 0.919995] [D value on x: 0.973375] [G loss: 0.046437]
+classification: 0.9577
+[epoch: 66] [D loss: 0.121845] [D value on g(z): 0.906625] [D value on x: 0.973880] [G loss: 0.079225]
+classification: 0.9576
+[epoch: 67] [D loss: 0.217347] [D value on g(z): 0.840884] [D value on x: 0.962137] [G loss: 0.099986]
+classification: 0.9574
+[epoch: 68] [D loss: 0.126619] [D value on g(z): 0.911403] [D value on x: 0.976100] [G loss: 0.024424]
+classification: 0.9561
+[epoch: 69] [D loss: 0.576524] [D value on g(z): 0.728767] [D value on x: 0.926869] [G loss: 0.735300]
+classification: 0.9554
+[epoch: 70] [D loss: 0.500366] [D value on g(z): 0.818735] [D value on x: 0.616068] [G loss: 0.175950]
+classification: 0.9566
+[epoch: 71] [D loss: 0.141441] [D value on g(z): 0.942351] [D value on x: 0.941905] [G loss: 0.040871]
+classification: 0.9604
+[epoch: 72] [D loss: 0.293724] [D value on g(z): 0.868108] [D value on x: 0.931516] [G loss: 0.159094]
+classification: 0.9564
+[epoch: 73] [D loss: 0.209865] [D value on g(z): 0.870898] [D value on x: 0.936728] [G loss: 0.079113]
+classification: 0.9588
+[epoch: 74] [D loss: 0.291368] [D value on g(z): 0.831737] [D value on x: 0.907351] [G loss: 0.277798]
+classification: 0.9586
+[epoch: 75] [D loss: 0.297464] [D value on g(z): 0.854868] [D value on x: 0.913376] [G loss: 0.147413]
+classification: 0.9567
+[epoch: 76] [D loss: 0.307162] [D value on g(z): 0.820677] [D value on x: 0.879149] [G loss: 0.180578]
+classification: 0.9585
+[epoch: 77] [D loss: 0.197069] [D value on g(z): 0.855101] [D value on x: 0.924467] [G loss: 0.172939]
+classification: 0.9567
+[epoch: 78] [D loss: 0.424674] [D value on g(z): 0.832631] [D value on x: 0.900900] [G loss: 0.487135]
+classification: 0.9584
+[epoch: 79] [D loss: 0.438489] [D value on g(z): 0.804805] [D value on x: 0.801268] [G loss: 0.296708]
+classification: 0.9569
+[epoch: 80] [D loss: 0.249251] [D value on g(z): 0.882299] [D value on x: 0.825733] [G loss: 0.215472]
+classification: 0.9603
+[epoch: 81] [D loss: 0.245666] [D value on g(z): 0.866866] [D value on x: 0.900168] [G loss: 0.098204]
+classification: 0.9578
+[epoch: 82] [D loss: 0.218739] [D value on g(z): 0.893658] [D value on x: 0.833618] [G loss: 0.256021]
+classification: 0.96
+[epoch: 83] [D loss: 0.300166] [D value on g(z): 0.893595] [D value on x: 0.843875] [G loss: 0.242709]
+classification: 0.958
+[epoch: 84] [D loss: 0.216949] [D value on g(z): 0.908214] [D value on x: 0.864280] [G loss: 0.185505]
+classification: 0.9566
+[epoch: 85] [D loss: 0.148285] [D value on g(z): 0.902407] [D value on x: 0.934439] [G loss: 0.084129]
+classification: 0.9606
+[epoch: 86] [D loss: 0.322994] [D value on g(z): 0.888807] [D value on x: 0.908819] [G loss: 0.285968]
+classification: 0.9594
+[epoch: 87] [D loss: 0.393584] [D value on g(z): 0.765726] [D value on x: 0.825475] [G loss: 0.256093]
+classification: 0.9597
+[epoch: 88] [D loss: 0.182099] [D value on g(z): 0.865935] [D value on x: 0.790359] [G loss: 0.150345]
+classification: 0.9588
+[epoch: 89] [D loss: 0.266168] [D value on g(z): 0.839214] [D value on x: 0.890210] [G loss: 0.129714]
+classification: 0.9602
+[epoch: 90] [D loss: 0.297461] [D value on g(z): 0.827624] [D value on x: 0.819603] [G loss: 0.151576]
+classification: 0.9615
+[epoch: 91] [D loss: 0.200059] [D value on g(z): 0.878619] [D value on x: 0.854634] [G loss: 0.049081]
+classification: 0.9611
+[epoch: 92] [D loss: 0.222316] [D value on g(z): 0.809858] [D value on x: 0.856834] [G loss: 0.123144]
+classification: 0.9618
+[epoch: 93] [D loss: 0.358123] [D value on g(z): 0.766301] [D value on x: 0.733500] [G loss: 0.186112]
+classification: 0.9586
+[epoch: 94] [D loss: 0.223501] [D value on g(z): 0.872229] [D value on x: 0.881064] [G loss: 0.246548]
+classification: 0.9605
+[epoch: 95] [D loss: 0.250464] [D value on g(z): 0.782347] [D value on x: 0.755130] [G loss: 0.213899]
+classification: 0.9604
+[epoch: 96] [D loss: 0.294930] [D value on g(z): 0.910492] [D value on x: 0.901028] [G loss: 0.272546]
+classification: 0.9614
+[epoch: 97] [D loss: 0.283716] [D value on g(z): 0.760000] [D value on x: 0.772501] [G loss: 0.126997]
+classification: 0.9603
+[epoch: 98] [D loss: 0.190449] [D value on g(z): 0.842207] [D value on x: 0.832403] [G loss: 0.082450]
+classification: 0.962
+[epoch: 99] [D loss: 0.318311] [D value on g(z): 0.790778] [D value on x: 0.779986] [G loss: 0.334405]
+classification: 0.9652
+[epoch: 100] [D loss: 0.137524] [D value on g(z): 0.916761] [D value on x: 0.886182] [G loss: 0.122568]
+classification: 0.964
+[epoch: 101] [D loss: 0.277669] [D value on g(z): 0.808483] [D value on x: 0.793857] [G loss: 0.226683]
+classification: 0.9656
+[epoch: 102] [D loss: 0.343925] [D value on g(z): 0.771272] [D value on x: 0.776496] [G loss: 0.383237]
+classification: 0.9636
+[epoch: 103] [D loss: 0.275489] [D value on g(z): 0.818314] [D value on x: 0.769949] [G loss: 0.162924]
+classification: 0.9627
+[epoch: 104] [D loss: 0.251820] [D value on g(z): 0.854887] [D value on x: 0.933134] [G loss: 0.241074]
+classification: 0.963
+[epoch: 105] [D loss: 0.325262] [D value on g(z): 0.850050] [D value on x: 0.921836] [G loss: 0.349273]
+classification: 0.9652
+[epoch: 106] [D loss: 0.238432] [D value on g(z): 0.820826] [D value on x: 0.887439] [G loss: 0.154876]
+classification: 0.964
+[epoch: 107] [D loss: 0.343694] [D value on g(z): 0.778664] [D value on x: 0.646859] [G loss: 0.299340]
+classification: 0.959
+[epoch: 108] [D loss: 0.502143] [D value on g(z): 0.885175] [D value on x: 0.818473] [G loss: 0.326830]
+classification: 0.9615
+[epoch: 109] [D loss: 0.241412] [D value on g(z): 0.783905] [D value on x: 0.838554] [G loss: 0.116944]
+classification: 0.96
+[epoch: 110] [D loss: 0.342733] [D value on g(z): 0.829359] [D value on x: 0.710501] [G loss: 0.270132]
+classification: 0.9619
+[epoch: 111] [D loss: 0.367023] [D value on g(z): 0.852467] [D value on x: 0.806842] [G loss: 0.384952]
+classification: 0.9642
+[epoch: 112] [D loss: 0.251174] [D value on g(z): 0.828527] [D value on x: 0.943561] [G loss: 0.111150]
+classification: 0.9652
+[epoch: 113] [D loss: 0.294175] [D value on g(z): 0.806076] [D value on x: 0.867600] [G loss: 0.092608]
+classification: 0.963
+[epoch: 114] [D loss: 0.256344] [D value on g(z): 0.863587] [D value on x: 0.750360] [G loss: 0.233447]
+classification: 0.9594
+[epoch: 115] [D loss: 0.269078] [D value on g(z): 0.814353] [D value on x: 0.854932] [G loss: 0.059203]
+classification: 0.9613
+[epoch: 116] [D loss: 0.348211] [D value on g(z): 0.798881] [D value on x: 0.767961] [G loss: 0.380259]
+classification: 0.964
+[epoch: 117] [D loss: 0.385255] [D value on g(z): 0.831992] [D value on x: 0.725806] [G loss: 0.405450]
+classification: 0.9633
+[epoch: 118] [D loss: 0.494578] [D value on g(z): 0.778755] [D value on x: 0.835648] [G loss: 0.238302]
+classification: 0.9595
+[epoch: 119] [D loss: 0.344202] [D value on g(z): 0.860799] [D value on x: 0.891411] [G loss: 0.345179]
+classification: 0.9646
+[epoch: 120] [D loss: 0.450641] [D value on g(z): 0.752105] [D value on x: 0.543782] [G loss: 0.206180]
+classification: 0.9616
+[epoch: 121] [D loss: 0.334904] [D value on g(z): 0.865300] [D value on x: 0.875319] [G loss: 0.307993]
+classification: 0.9638
+[epoch: 122] [D loss: 0.206827] [D value on g(z): 0.851935] [D value on x: 0.845274] [G loss: 0.172469]
+classification: 0.9653
+[epoch: 123] [D loss: 0.235879] [D value on g(z): 0.859588] [D value on x: 0.909375] [G loss: 0.251272]
+classification: 0.9652
+[epoch: 124] [D loss: 0.428637] [D value on g(z): 0.754422] [D value on x: 0.838748] [G loss: 0.323945]
+classification: 0.9655
+[epoch: 125] [D loss: 0.213305] [D value on g(z): 0.842673] [D value on x: 0.803397] [G loss: 0.175599]
+classification: 0.9646
+[epoch: 126] [D loss: 0.233065] [D value on g(z): 0.836082] [D value on x: 0.833139] [G loss: 0.124026]
+classification: 0.9652
+[epoch: 127] [D loss: 0.316427] [D value on g(z): 0.852375] [D value on x: 0.791060] [G loss: 0.211576]
+classification: 0.9658
+[epoch: 128] [D loss: 0.319968] [D value on g(z): 0.807397] [D value on x: 0.743717] [G loss: 0.272976]
+classification: 0.966
+[epoch: 129] [D loss: 0.408357] [D value on g(z): 0.831904] [D value on x: 0.855790] [G loss: 0.342072]
+classification: 0.9659
+[epoch: 130] [D loss: 0.216538] [D value on g(z): 0.845765] [D value on x: 0.726522] [G loss: 0.228649]
+classification: 0.9669
+[epoch: 131] [D loss: 0.128900] [D value on g(z): 0.927980] [D value on x: 0.860660] [G loss: 0.099609]
+classification: 0.9657
+[epoch: 132] [D loss: 0.300761] [D value on g(z): 0.844992] [D value on x: 0.894377] [G loss: 0.292108]
+classification: 0.9632
+[epoch: 133] [D loss: 0.379406] [D value on g(z): 0.839749] [D value on x: 0.731505] [G loss: 0.397590]
+classification: 0.9634
+[epoch: 134] [D loss: 0.315953] [D value on g(z): 0.849714] [D value on x: 0.729892] [G loss: 0.285971]
+classification: 0.9623
+[epoch: 135] [D loss: 0.252322] [D value on g(z): 0.852694] [D value on x: 0.864907] [G loss: 0.072891]
+classification: 0.9622
+[epoch: 136] [D loss: 0.237343] [D value on g(z): 0.874412] [D value on x: 0.866645] [G loss: 0.210296]
+classification: 0.9646
+[epoch: 137] [D loss: 0.470326] [D value on g(z): 0.748543] [D value on x: 0.694381] [G loss: 0.481516]
+classification: 0.9635
+[epoch: 138] [D loss: 0.369028] [D value on g(z): 0.788943] [D value on x: 0.783692] [G loss: 0.400630]
+classification: 0.9651
+[epoch: 139] [D loss: 0.204368] [D value on g(z): 0.800544] [D value on x: 0.803855] [G loss: 0.171027]
+classification: 0.9648
+[epoch: 140] [D loss: 0.444974] [D value on g(z): 0.783364] [D value on x: 0.762479] [G loss: 0.270101]
+classification: 0.9613
+[epoch: 141] [D loss: 0.341366] [D value on g(z): 0.817535] [D value on x: 0.876776] [G loss: 0.150268]
+classification: 0.9647
+[epoch: 142] [D loss: 0.310265] [D value on g(z): 0.756241] [D value on x: 0.870316] [G loss: 0.288120]
+classification: 0.9631
+[epoch: 143] [D loss: 0.194557] [D value on g(z): 0.872271] [D value on x: 0.873150] [G loss: 0.097850]
+classification: 0.9648
+[epoch: 144] [D loss: 0.350006] [D value on g(z): 0.736522] [D value on x: 0.720378] [G loss: 0.343131]
+classification: 0.9657
+[epoch: 145] [D loss: 0.325770] [D value on g(z): 0.784069] [D value on x: 0.714555] [G loss: 0.251470]
+classification: 0.9656
+[epoch: 146] [D loss: 0.149710] [D value on g(z): 0.967088] [D value on x: 0.960506] [G loss: 0.038645]
+classification: 0.9679
+[epoch: 147] [D loss: 0.270465] [D value on g(z): 0.858315] [D value on x: 0.745026] [G loss: 0.132394]
+classification: 0.9656
+[epoch: 148] [D loss: 0.177544] [D value on g(z): 0.904657] [D value on x: 0.850223] [G loss: 0.120857]
+classification: 0.9647
+[epoch: 149] [D loss: 0.319969] [D value on g(z): 0.862044] [D value on x: 0.783845] [G loss: 0.260512]
+classification: 0.9661
+[epoch: 150] [D loss: 0.168305] [D value on g(z): 0.830770] [D value on x: 0.796053] [G loss: 0.054858]
+classification: 0.9645
+[epoch: 151] [D loss: 0.252431] [D value on g(z): 0.826224] [D value on x: 0.837327] [G loss: 0.197371]
+classification: 0.9659
+[epoch: 152] [D loss: 0.311207] [D value on g(z): 0.815962] [D value on x: 0.823776] [G loss: 0.181525]
+classification: 0.9655
+[epoch: 153] [D loss: 0.234692] [D value on g(z): 0.836969] [D value on x: 0.800367] [G loss: 0.122665]
+classification: 0.9665
+[epoch: 154] [D loss: 0.428352] [D value on g(z): 0.784516] [D value on x: 0.774294] [G loss: 0.606123]
+classification: 0.9629
+[epoch: 155] [D loss: 0.316003] [D value on g(z): 0.803100] [D value on x: 0.758697] [G loss: 0.158004]
+classification: 0.9647
+[epoch: 156] [D loss: 0.447777] [D value on g(z): 0.802035] [D value on x: 0.672797] [G loss: 0.228236]
+classification: 0.963
+[epoch: 157] [D loss: 0.473130] [D value on g(z): 0.738824] [D value on x: 0.676228] [G loss: 0.379209]
+classification: 0.963
+[epoch: 158] [D loss: 0.330829] [D value on g(z): 0.836963] [D value on x: 0.804318] [G loss: 0.317513]
+classification: 0.9626
+[epoch: 159] [D loss: 0.354290] [D value on g(z): 0.803200] [D value on x: 0.719955] [G loss: 0.167417]
+classification: 0.9671
+[epoch: 160] [D loss: 0.233568] [D value on g(z): 0.870021] [D value on x: 0.584204] [G loss: 0.083943]
+classification: 0.9645
+[epoch: 161] [D loss: 0.314439] [D value on g(z): 0.821603] [D value on x: 0.844392] [G loss: 0.165693]
+classification: 0.9662
+[epoch: 162] [D loss: 0.502463] [D value on g(z): 0.736577] [D value on x: 0.710684] [G loss: 0.533203]
+classification: 0.9654
+[epoch: 163] [D loss: 0.394260] [D value on g(z): 0.847770] [D value on x: 0.746877] [G loss: 0.340596]
+classification: 0.9647
+[epoch: 164] [D loss: 0.270765] [D value on g(z): 0.783769] [D value on x: 0.791348] [G loss: 0.331401]
+classification: 0.9653
+[epoch: 165] [D loss: 0.350555] [D value on g(z): 0.756639] [D value on x: 0.831102] [G loss: 0.310429]
+classification: 0.9633
+[epoch: 166] [D loss: 0.366324] [D value on g(z): 0.704302] [D value on x: 0.815900] [G loss: 0.373536]
+classification: 0.9588
+[epoch: 167] [D loss: 0.161774] [D value on g(z): 0.860489] [D value on x: 0.903382] [G loss: 0.156041]
+classification: 0.9623
+[epoch: 168] [D loss: 0.353378] [D value on g(z): 0.839978] [D value on x: 0.632421] [G loss: 0.295183]
+classification: 0.9635
+[epoch: 169] [D loss: 0.221739] [D value on g(z): 0.812068] [D value on x: 0.792297] [G loss: 0.117265]
+classification: 0.9653
+[epoch: 170] [D loss: 0.329094] [D value on g(z): 0.801539] [D value on x: 0.830065] [G loss: 0.398708]
+classification: 0.9637
+[epoch: 171] [D loss: 0.437454] [D value on g(z): 0.793413] [D value on x: 0.856479] [G loss: 0.466842]
+classification: 0.9658
+[epoch: 172] [D loss: 0.298154] [D value on g(z): 0.795865] [D value on x: 0.841433] [G loss: 0.305364]
+classification: 0.9652
+[epoch: 173] [D loss: 0.395597] [D value on g(z): 0.740435] [D value on x: 0.671134] [G loss: 0.188356]
+classification: 0.9612
+[epoch: 174] [D loss: 0.616270] [D value on g(z): 0.721289] [D value on x: 0.558559] [G loss: 0.677077]
+classification: 0.9614
+[epoch: 175] [D loss: 0.337449] [D value on g(z): 0.782801] [D value on x: 0.826392] [G loss: 0.257302]
+classification: 0.9624
+[epoch: 176] [D loss: 0.395731] [D value on g(z): 0.771162] [D value on x: 0.643474] [G loss: 0.393957]
+classification: 0.9617
+[epoch: 177] [D loss: 0.490681] [D value on g(z): 0.723176] [D value on x: 0.881510] [G loss: 0.395133]
+classification: 0.9604
+[epoch: 178] [D loss: 0.313123] [D value on g(z): 0.747262] [D value on x: 0.764620] [G loss: 0.227246]
+classification: 0.9634
+[epoch: 179] [D loss: 0.366492] [D value on g(z): 0.683468] [D value on x: 0.711578] [G loss: 0.346774]
+classification: 0.9626
+[epoch: 180] [D loss: 0.480151] [D value on g(z): 0.768501] [D value on x: 0.595025] [G loss: 0.383651]
+classification: 0.9602
+[epoch: 181] [D loss: 0.494657] [D value on g(z): 0.780994] [D value on x: 0.786597] [G loss: 0.593196]
+classification: 0.9635
+[epoch: 182] [D loss: 0.277740] [D value on g(z): 0.761735] [D value on x: 0.681846] [G loss: 0.174358]
+classification: 0.9647
+[epoch: 183] [D loss: 0.432611] [D value on g(z): 0.708335] [D value on x: 0.650228] [G loss: 0.359531]
+classification: 0.9625
+[epoch: 184] [D loss: 0.344729] [D value on g(z): 0.798173] [D value on x: 0.679926] [G loss: 0.101259]
+classification: 0.963
+[epoch: 185] [D loss: 0.367278] [D value on g(z): 0.793406] [D value on x: 0.915170] [G loss: 0.267693]
+classification: 0.9645
+[epoch: 186] [D loss: 0.422746] [D value on g(z): 0.820610] [D value on x: 0.788324] [G loss: 0.286923]
+classification: 0.9644
+[epoch: 187] [D loss: 0.562708] [D value on g(z): 0.797022] [D value on x: 0.686755] [G loss: 0.443814]
+classification: 0.9652
+[epoch: 188] [D loss: 0.298587] [D value on g(z): 0.802124] [D value on x: 0.760974] [G loss: 0.262826]
+classification: 0.964
+[epoch: 189] [D loss: 0.562368] [D value on g(z): 0.712794] [D value on x: 0.651219] [G loss: 0.555056]
+classification: 0.9651
+[epoch: 190] [D loss: 0.392962] [D value on g(z): 0.784626] [D value on x: 0.722708] [G loss: 0.278934]
+classification: 0.9634
+[epoch: 191] [D loss: 0.414033] [D value on g(z): 0.769019] [D value on x: 0.808713] [G loss: 0.262780]
+classification: 0.9622
+[epoch: 192] [D loss: 0.378226] [D value on g(z): 0.762561] [D value on x: 0.791849] [G loss: 0.307923]
+classification: 0.9605
+[epoch: 193] [D loss: 0.351971] [D value on g(z): 0.821967] [D value on x: 0.790783] [G loss: 0.326174]
+classification: 0.9606
+[epoch: 194] [D loss: 0.492756] [D value on g(z): 0.799101] [D value on x: 0.780301] [G loss: 0.609352]
+classification: 0.9605
+[epoch: 195] [D loss: 0.383685] [D value on g(z): 0.803973] [D value on x: 0.779349] [G loss: 0.194956]
+classification: 0.9612
+[epoch: 196] [D loss: 0.522906] [D value on g(z): 0.764450] [D value on x: 0.667049] [G loss: 0.311571]
+classification: 0.9616
+[epoch: 197] [D loss: 0.317367] [D value on g(z): 0.782832] [D value on x: 0.516492] [G loss: 0.201094]
+classification: 0.9605
+[epoch: 198] [D loss: 0.459917] [D value on g(z): 0.842568] [D value on x: 0.812569] [G loss: 0.304053]
+classification: 0.9639
+[epoch: 199] [D loss: 0.308929] [D value on g(z): 0.765994] [D value on x: 0.752524] [G loss: 0.144923]
+classification: 0.9633
+[epoch: 200] [D loss: 0.328184] [D value on g(z): 0.757403] [D value on x: 0.734096] [G loss: 0.231247]
+classification: 0.9615
+[epoch: 201] [D loss: 0.425261] [D value on g(z): 0.742424] [D value on x: 0.740056] [G loss: 0.411297]
+classification: 0.9614
+[epoch: 202] [D loss: 0.602373] [D value on g(z): 0.754914] [D value on x: 0.816976] [G loss: 0.706807]
+classification: 0.9624
+[epoch: 203] [D loss: 0.540340] [D value on g(z): 0.839180] [D value on x: 0.705190] [G loss: 0.527921]
+classification: 0.9607
+[epoch: 204] [D loss: 0.351234] [D value on g(z): 0.806445] [D value on x: 0.835168] [G loss: 0.178753]
+classification: 0.9632
+[epoch: 205] [D loss: 0.329073] [D value on g(z): 0.808521] [D value on x: 0.672762] [G loss: 0.281507]
+classification: 0.9636
+[epoch: 206] [D loss: 0.399109] [D value on g(z): 0.773267] [D value on x: 0.717722] [G loss: 0.398691]
+classification: 0.9629
+[epoch: 207] [D loss: 0.333555] [D value on g(z): 0.813212] [D value on x: 0.708008] [G loss: 0.352953]
+classification: 0.9636
+[epoch: 208] [D loss: 0.397795] [D value on g(z): 0.730236] [D value on x: 0.611375] [G loss: 0.315310]
+classification: 0.9644
+[epoch: 209] [D loss: 0.234193] [D value on g(z): 0.844677] [D value on x: 0.887362] [G loss: 0.176045]
+classification: 0.9652
+[epoch: 210] [D loss: 0.339362] [D value on g(z): 0.803182] [D value on x: 0.705224] [G loss: 0.273428]
+classification: 0.965
+[epoch: 211] [D loss: 0.536740] [D value on g(z): 0.659502] [D value on x: 0.724663] [G loss: 0.494949]
+classification: 0.9612
+[epoch: 212] [D loss: 0.416710] [D value on g(z): 0.666668] [D value on x: 0.712156] [G loss: 0.320242]
+classification: 0.9609
+[epoch: 213] [D loss: 0.352160] [D value on g(z): 0.773198] [D value on x: 0.660947] [G loss: 0.260872]
+classification: 0.9615
+[epoch: 214] [D loss: 0.298611] [D value on g(z): 0.871112] [D value on x: 0.769649] [G loss: 0.285688]
+classification: 0.9618
+[epoch: 215] [D loss: 0.566873] [D value on g(z): 0.734692] [D value on x: 0.741109] [G loss: 0.658191]
+classification: 0.9628
+[epoch: 216] [D loss: 0.312043] [D value on g(z): 0.732693] [D value on x: 0.658656] [G loss: 0.226777]
+classification: 0.964
+[epoch: 217] [D loss: 0.456687] [D value on g(z): 0.745977] [D value on x: 0.632404] [G loss: 0.269042]
+classification: 0.9635
+[epoch: 218] [D loss: 0.287843] [D value on g(z): 0.783477] [D value on x: 0.813808] [G loss: 0.179074]
+classification: 0.9654
+[epoch: 219] [D loss: 0.507408] [D value on g(z): 0.726419] [D value on x: 0.615570] [G loss: 0.352839]
+classification: 0.965
+[epoch: 220] [D loss: 0.541129] [D value on g(z): 0.760512] [D value on x: 0.494171] [G loss: 0.407452]
+classification: 0.9638
+[epoch: 221] [D loss: 0.320599] [D value on g(z): 0.811790] [D value on x: 0.753936] [G loss: 0.253133]
+classification: 0.9631
+[epoch: 222] [D loss: 0.493336] [D value on g(z): 0.778325] [D value on x: 0.667425] [G loss: 0.500123]
+classification: 0.965
+[epoch: 223] [D loss: 0.338198] [D value on g(z): 0.771474] [D value on x: 0.715071] [G loss: 0.219463]
+classification: 0.9653
+[epoch: 224] [D loss: 0.460169] [D value on g(z): 0.727233] [D value on x: 0.666082] [G loss: 0.258261]
+classification: 0.964
+[epoch: 225] [D loss: 0.335862] [D value on g(z): 0.754996] [D value on x: 0.720260] [G loss: 0.161929]
+classification: 0.9643
+[epoch: 226] [D loss: 0.546055] [D value on g(z): 0.748466] [D value on x: 0.701574] [G loss: 0.548757]
+classification: 0.9651
+[epoch: 227] [D loss: 0.301902] [D value on g(z): 0.780786] [D value on x: 0.750678] [G loss: 0.290476]
+classification: 0.9655
+[epoch: 228] [D loss: 0.390993] [D value on g(z): 0.765223] [D value on x: 0.636048] [G loss: 0.215106]
+classification: 0.9647
+[epoch: 229] [D loss: 0.443162] [D value on g(z): 0.786180] [D value on x: 0.652867] [G loss: 0.317863]
+classification: 0.9658
+[epoch: 230] [D loss: 0.398306] [D value on g(z): 0.783080] [D value on x: 0.775106] [G loss: 0.279243]
+classification: 0.9681
+[epoch: 231] [D loss: 0.319869] [D value on g(z): 0.750239] [D value on x: 0.844912] [G loss: 0.138393]
+classification: 0.9665
+[epoch: 232] [D loss: 0.428228] [D value on g(z): 0.751009] [D value on x: 0.598979] [G loss: 0.400992]
+classification: 0.9662
+[epoch: 233] [D loss: 0.454907] [D value on g(z): 0.704704] [D value on x: 0.719766] [G loss: 0.235485]
+classification: 0.9646
+[epoch: 234] [D loss: 0.401189] [D value on g(z): 0.753819] [D value on x: 0.690774] [G loss: 0.343034]
+classification: 0.9629
+[epoch: 235] [D loss: 0.417054] [D value on g(z): 0.769941] [D value on x: 0.822835] [G loss: 0.238299]
+classification: 0.9628
+[epoch: 236] [D loss: 0.403744] [D value on g(z): 0.739555] [D value on x: 0.668573] [G loss: 0.241201]
+classification: 0.9666
+[epoch: 237] [D loss: 0.383868] [D value on g(z): 0.703405] [D value on x: 0.796795] [G loss: 0.351650]
+classification: 0.966
+[epoch: 238] [D loss: 0.537473] [D value on g(z): 0.724479] [D value on x: 0.668519] [G loss: 0.513529]
+classification: 0.965
+[epoch: 239] [D loss: 0.547319] [D value on g(z): 0.753532] [D value on x: 0.567267] [G loss: 0.521348]
+classification: 0.965
+[epoch: 240] [D loss: 0.420631] [D value on g(z): 0.759333] [D value on x: 0.739934] [G loss: 0.327505]
+classification: 0.9639
+[epoch: 241] [D loss: 0.567652] [D value on g(z): 0.732234] [D value on x: 0.708559] [G loss: 0.336703]
+classification: 0.9639
+[epoch: 242] [D loss: 0.406694] [D value on g(z): 0.667497] [D value on x: 0.743321] [G loss: 0.354735]
+classification: 0.9645
+[epoch: 243] [D loss: 0.215305] [D value on g(z): 0.754436] [D value on x: 0.703012] [G loss: 0.141151]
+classification: 0.9633
+[epoch: 244] [D loss: 0.316945] [D value on g(z): 0.749570] [D value on x: 0.838892] [G loss: 0.160022]
+classification: 0.9631
+[epoch: 245] [D loss: 0.531139] [D value on g(z): 0.674357] [D value on x: 0.531449] [G loss: 0.542881]
+classification: 0.961
+[epoch: 246] [D loss: 0.413220] [D value on g(z): 0.773004] [D value on x: 0.761567] [G loss: 0.348943]
+classification: 0.9633
+[epoch: 247] [D loss: 0.417645] [D value on g(z): 0.709982] [D value on x: 0.663463] [G loss: 0.290111]
+classification: 0.9653
+[epoch: 248] [D loss: 0.429456] [D value on g(z): 0.701061] [D value on x: 0.703608] [G loss: 0.325048]
+classification: 0.964
+[epoch: 249] [D loss: 0.310048] [D value on g(z): 0.808776] [D value on x: 0.756343] [G loss: 0.199314]
+classification: 0.9631
+[epoch: 250] [D loss: 0.618045] [D value on g(z): 0.676579] [D value on x: 0.788756] [G loss: 0.666926]
+classification: 0.9633
+[epoch: 251] [D loss: 0.609679] [D value on g(z): 0.721691] [D value on x: 0.750181] [G loss: 0.717223]
+classification: 0.9644
+[epoch: 252] [D loss: 0.401971] [D value on g(z): 0.787331] [D value on x: 0.755270] [G loss: 0.298824]
+classification: 0.9647
+[epoch: 253] [D loss: 0.438891] [D value on g(z): 0.758138] [D value on x: 0.770526] [G loss: 0.286524]
+classification: 0.967
+[epoch: 254] [D loss: 0.429214] [D value on g(z): 0.740925] [D value on x: 0.712932] [G loss: 0.388650]
+classification: 0.9681
+[epoch: 255] [D loss: 0.419594] [D value on g(z): 0.746120] [D value on x: 0.773802] [G loss: 0.214386]
+classification: 0.9656
+[epoch: 256] [D loss: 0.367854] [D value on g(z): 0.740425] [D value on x: 0.702407] [G loss: 0.254105]
+classification: 0.9661
+[epoch: 257] [D loss: 0.476428] [D value on g(z): 0.684719] [D value on x: 0.737348] [G loss: 0.462693]
+classification: 0.9658
+[epoch: 258] [D loss: 0.655729] [D value on g(z): 0.725821] [D value on x: 0.615683] [G loss: 0.628606]
+classification: 0.9657
+[epoch: 259] [D loss: 0.600173] [D value on g(z): 0.788375] [D value on x: 0.678521] [G loss: 0.607608]
+classification: 0.9657
+[epoch: 260] [D loss: 0.497070] [D value on g(z): 0.719011] [D value on x: 0.666580] [G loss: 0.424295]
+classification: 0.9664
+[epoch: 261] [D loss: 0.426582] [D value on g(z): 0.725763] [D value on x: 0.647106] [G loss: 0.284300]
+classification: 0.9672
+[epoch: 262] [D loss: 0.526664] [D value on g(z): 0.718572] [D value on x: 0.785205] [G loss: 0.351929]
+classification: 0.9674
+[epoch: 263] [D loss: 0.714113] [D value on g(z): 0.673360] [D value on x: 0.815317] [G loss: 0.885932]
+classification: 0.9652
+[epoch: 264] [D loss: 0.726512] [D value on g(z): 0.688397] [D value on x: 0.549186] [G loss: 0.741016]
+classification: 0.9673
+[epoch: 265] [D loss: 0.345843] [D value on g(z): 0.759156] [D value on x: 0.787522] [G loss: 0.219948]
+classification: 0.9666
+[epoch: 266] [D loss: 0.407871] [D value on g(z): 0.788140] [D value on x: 0.809346] [G loss: 0.330017]
+classification: 0.969
+[epoch: 267] [D loss: 0.512200] [D value on g(z): 0.720970] [D value on x: 0.676981] [G loss: 0.443475]
+classification: 0.9661
+[epoch: 268] [D loss: 0.579404] [D value on g(z): 0.746796] [D value on x: 0.761893] [G loss: 0.681868]
+classification: 0.9675
+[epoch: 269] [D loss: 0.624801] [D value on g(z): 0.768305] [D value on x: 0.592607] [G loss: 0.528820]
+classification: 0.9654
+[epoch: 270] [D loss: 0.432990] [D value on g(z): 0.722174] [D value on x: 0.757381] [G loss: 0.500775]
+classification: 0.9657
+[epoch: 271] [D loss: 0.519059] [D value on g(z): 0.773429] [D value on x: 0.518088] [G loss: 0.316907]
+classification: 0.9644
+[epoch: 272] [D loss: 0.632223] [D value on g(z): 0.704351] [D value on x: 0.760225] [G loss: 0.624256]
+classification: 0.9644
+[epoch: 273] [D loss: 0.623795] [D value on g(z): 0.775548] [D value on x: 0.688234] [G loss: 0.669625]
+classification: 0.9649
+[epoch: 274] [D loss: 0.383270] [D value on g(z): 0.689803] [D value on x: 0.581833] [G loss: 0.243280]
+classification: 0.9653
+[epoch: 275] [D loss: 0.317608] [D value on g(z): 0.757020] [D value on x: 0.647730] [G loss: 0.127211]
+classification: 0.9656
+[epoch: 276] [D loss: 1.011206] [D value on g(z): 0.676607] [D value on x: 0.572034] [G loss: 1.379489]
+classification: 0.9665
+[epoch: 277] [D loss: 0.151843] [D value on g(z): 0.940711] [D value on x: 0.933868] [G loss: 0.011852]
+classification: 0.9667
+[epoch: 278] [D loss: 0.423897] [D value on g(z): 0.806063] [D value on x: 0.758227] [G loss: 0.382623]
+classification: 0.9632
+[epoch: 279] [D loss: 0.469706] [D value on g(z): 0.714684] [D value on x: 0.573368] [G loss: 0.191502]
+classification: 0.9645
+[epoch: 280] [D loss: 0.509488] [D value on g(z): 0.673731] [D value on x: 0.758092] [G loss: 0.424700]
+classification: 0.9638
+[epoch: 281] [D loss: 0.385802] [D value on g(z): 0.775287] [D value on x: 0.741116] [G loss: 0.234538]
+classification: 0.9631
+[epoch: 282] [D loss: 0.378301] [D value on g(z): 0.733205] [D value on x: 0.762672] [G loss: 0.293294]
+classification: 0.964
+[epoch: 283] [D loss: 0.433650] [D value on g(z): 0.789294] [D value on x: 0.845743] [G loss: 0.341854]
+classification: 0.9659
+[epoch: 284] [D loss: 0.451656] [D value on g(z): 0.734287] [D value on x: 0.755766] [G loss: 0.333873]
+classification: 0.9665
+[epoch: 285] [D loss: 0.433505] [D value on g(z): 0.845437] [D value on x: 0.848541] [G loss: 0.562055]
+classification: 0.9664
+[epoch: 286] [D loss: 0.517193] [D value on g(z): 0.705742] [D value on x: 0.626716] [G loss: 0.112243]
+classification: 0.9672
+[epoch: 287] [D loss: 0.363718] [D value on g(z): 0.714410] [D value on x: 0.737663] [G loss: 0.170995]
+classification: 0.9665
+[epoch: 288] [D loss: 0.442638] [D value on g(z): 0.714386] [D value on x: 0.732776] [G loss: 0.318027]
+classification: 0.9652
+[epoch: 289] [D loss: 0.550972] [D value on g(z): 0.721647] [D value on x: 0.460501] [G loss: 0.505870]
+classification: 0.9643
+[epoch: 290] [D loss: 0.451996] [D value on g(z): 0.737921] [D value on x: 0.748287] [G loss: 0.367810]
+classification: 0.9661
+[epoch: 291] [D loss: 0.427746] [D value on g(z): 0.700090] [D value on x: 0.683801] [G loss: 0.418343]
+classification: 0.9646
+[epoch: 292] [D loss: 0.450980] [D value on g(z): 0.732616] [D value on x: 0.741850] [G loss: 0.318032]
+classification: 0.9637
+[epoch: 293] [D loss: 0.524518] [D value on g(z): 0.713652] [D value on x: 0.589734] [G loss: 0.452189]
+classification: 0.9652
+[epoch: 294] [D loss: 0.459308] [D value on g(z): 0.704851] [D value on x: 0.774535] [G loss: 0.366805]
+classification: 0.9666
+[epoch: 295] [D loss: 0.541451] [D value on g(z): 0.634490] [D value on x: 0.732569] [G loss: 0.607910]
+classification: 0.9639
+[epoch: 296] [D loss: 0.527757] [D value on g(z): 0.738027] [D value on x: 0.718934] [G loss: 0.619361]
+classification: 0.966
+[epoch: 297] [D loss: 0.415327] [D value on g(z): 0.713618] [D value on x: 0.649805] [G loss: 0.338075]
+classification: 0.9676
+[epoch: 298] [D loss: 0.711058] [D value on g(z): 0.701325] [D value on x: 0.689860] [G loss: 0.885554]
+classification: 0.9651
+[epoch: 299] [D loss: 0.454650] [D value on g(z): 0.768936] [D value on x: 0.753763] [G loss: 0.435504]
+classification: 0.9662
+[epoch: 300] [D loss: 0.477407] [D value on g(z): 0.750336] [D value on x: 0.714099] [G loss: 0.343915]
+classification: 0.9667
+[epoch: 301] [D loss: 0.557191] [D value on g(z): 0.686605] [D value on x: 0.724437] [G loss: 0.452866]
+classification: 0.9675
+[epoch: 302] [D loss: 0.622783] [D value on g(z): 0.697228] [D value on x: 0.717972] [G loss: 0.707332]
+classification: 0.9674
+[epoch: 303] [D loss: 0.501708] [D value on g(z): 0.713737] [D value on x: 0.654021] [G loss: 0.408629]
+classification: 0.9658
+[epoch: 304] [D loss: 0.527404] [D value on g(z): 0.710793] [D value on x: 0.723353] [G loss: 0.390527]
+classification: 0.9677
+[epoch: 305] [D loss: 0.507050] [D value on g(z): 0.727737] [D value on x: 0.740518] [G loss: 0.358020]
+classification: 0.9662
+[epoch: 306] [D loss: 0.428140] [D value on g(z): 0.695707] [D value on x: 0.618240] [G loss: 0.348367]
+classification: 0.9677
+[epoch: 307] [D loss: 0.411037] [D value on g(z): 0.704201] [D value on x: 0.742819] [G loss: 0.146171]
+classification: 0.9648
+[epoch: 308] [D loss: 0.568319] [D value on g(z): 0.729952] [D value on x: 0.612469] [G loss: 0.398721]
+classification: 0.9648
+[epoch: 309] [D loss: 0.404239] [D value on g(z): 0.792039] [D value on x: 0.720025] [G loss: 0.391914]
+classification: 0.9626
+[epoch: 310] [D loss: 0.651219] [D value on g(z): 0.711312] [D value on x: 0.654436] [G loss: 0.915341]
+classification: 0.9665
+[epoch: 311] [D loss: 0.688300] [D value on g(z): 0.679262] [D value on x: 0.597398] [G loss: 0.692803]
+classification: 0.966
+[epoch: 312] [D loss: 0.408332] [D value on g(z): 0.745544] [D value on x: 0.906015] [G loss: 0.375442]
+classification: 0.9642
+[epoch: 313] [D loss: 0.508189] [D value on g(z): 0.745198] [D value on x: 0.680133] [G loss: 0.386697]
+classification: 0.9679
+[epoch: 314] [D loss: 0.501634] [D value on g(z): 0.815120] [D value on x: 0.890109] [G loss: 0.330818]
+classification: 0.9642
+[epoch: 315] [D loss: 0.379684] [D value on g(z): 0.730539] [D value on x: 0.718289] [G loss: 0.421392]
+classification: 0.9664
+[epoch: 316] [D loss: 0.715803] [D value on g(z): 0.752059] [D value on x: 0.802965] [G loss: 0.956023]
+classification: 0.9637
+[epoch: 317] [D loss: 0.464372] [D value on g(z): 0.731792] [D value on x: 0.675607] [G loss: 0.402372]
+classification: 0.9658
+[epoch: 318] [D loss: 0.637411] [D value on g(z): 0.710069] [D value on x: 0.725337] [G loss: 0.607418]
+classification: 0.9648
+[epoch: 319] [D loss: 0.500063] [D value on g(z): 0.709568] [D value on x: 0.752788] [G loss: 0.564045]
+classification: 0.964
+[epoch: 320] [D loss: 0.656381] [D value on g(z): 0.790886] [D value on x: 0.787756] [G loss: 0.709649]
+classification: 0.9643
+[epoch: 321] [D loss: 0.431336] [D value on g(z): 0.797937] [D value on x: 0.732970] [G loss: 0.381159]
+classification: 0.966
+[epoch: 322] [D loss: 0.447743] [D value on g(z): 0.690226] [D value on x: 0.696177] [G loss: 0.430357]
+classification: 0.966
+[epoch: 323] [D loss: 0.430563] [D value on g(z): 0.847909] [D value on x: 0.656331] [G loss: 0.315355]
+classification: 0.9644
+[epoch: 324] [D loss: 0.480948] [D value on g(z): 0.712268] [D value on x: 0.751737] [G loss: 0.352999]
+classification: 0.9647
+[epoch: 325] [D loss: 0.595205] [D value on g(z): 0.679558] [D value on x: 0.660535] [G loss: 0.525342]
+classification: 0.9652
+[epoch: 326] [D loss: 0.400682] [D value on g(z): 0.736009] [D value on x: 0.775105] [G loss: 0.384972]
+classification: 0.9654
+[epoch: 327] [D loss: 0.581060] [D value on g(z): 0.732461] [D value on x: 0.786720] [G loss: 0.716383]
+classification: 0.9655
+[epoch: 328] [D loss: 0.421379] [D value on g(z): 0.665870] [D value on x: 0.699085] [G loss: 0.336222]
+classification: 0.965
+[epoch: 329] [D loss: 0.668675] [D value on g(z): 0.651860] [D value on x: 0.618050] [G loss: 0.736212]
+classification: 0.966
+[epoch: 330] [D loss: 0.792492] [D value on g(z): 0.701474] [D value on x: 0.596396] [G loss: 0.827389]
+classification: 0.9663
+[epoch: 331] [D loss: 0.506328] [D value on g(z): 0.709717] [D value on x: 0.777354] [G loss: 0.417566]
+classification: 0.9681
+[epoch: 332] [D loss: 0.407087] [D value on g(z): 0.747224] [D value on x: 0.742872] [G loss: 0.363701]
+classification: 0.9669
+[epoch: 333] [D loss: 0.504642] [D value on g(z): 0.713558] [D value on x: 0.654598] [G loss: 0.458303]
+classification: 0.966
+[epoch: 334] [D loss: 0.734314] [D value on g(z): 0.675748] [D value on x: 0.613801] [G loss: 0.757230]
+classification: 0.9651
+[epoch: 335] [D loss: 0.513529] [D value on g(z): 0.614987] [D value on x: 0.783312] [G loss: 0.361539]
+classification: 0.9649
+[epoch: 336] [D loss: 0.735286] [D value on g(z): 0.718154] [D value on x: 0.626909] [G loss: 0.816051]
+classification: 0.963
+[epoch: 337] [D loss: 0.825850] [D value on g(z): 0.656093] [D value on x: 0.784082] [G loss: 0.893492]
+classification: 0.9629
+[epoch: 338] [D loss: 0.732541] [D value on g(z): 0.711275] [D value on x: 0.676872] [G loss: 0.800428]
+classification: 0.9644
+[epoch: 339] [D loss: 0.403503] [D value on g(z): 0.707228] [D value on x: 0.823838] [G loss: 0.363890]
+classification: 0.9653
+[epoch: 340] [D loss: 0.422462] [D value on g(z): 0.623952] [D value on x: 0.676179] [G loss: 0.419037]
+classification: 0.9637
+[epoch: 341] [D loss: 0.582306] [D value on g(z): 0.721318] [D value on x: 0.628765] [G loss: 0.509769]
+classification: 0.965
+[epoch: 342] [D loss: 0.455959] [D value on g(z): 0.698471] [D value on x: 0.686419] [G loss: 0.300596]
+classification: 0.9657
+[epoch: 343] [D loss: 0.419659] [D value on g(z): 0.704012] [D value on x: 0.743026] [G loss: 0.208737]
+classification: 0.9667
+[epoch: 344] [D loss: 0.450997] [D value on g(z): 0.696780] [D value on x: 0.624884] [G loss: 0.259139]
+classification: 0.9644
+[epoch: 345] [D loss: 0.450988] [D value on g(z): 0.689942] [D value on x: 0.822016] [G loss: 0.489990]
+classification: 0.9652
+[epoch: 346] [D loss: 0.453064] [D value on g(z): 0.714861] [D value on x: 0.633747] [G loss: 0.291542]
+classification: 0.9643
+[epoch: 347] [D loss: 0.506788] [D value on g(z): 0.699706] [D value on x: 0.807086] [G loss: 0.297467]
+classification: 0.9659
+[epoch: 348] [D loss: 0.565605] [D value on g(z): 0.704066] [D value on x: 0.697262] [G loss: 0.539279]
+classification: 0.9666
+[epoch: 349] [D loss: 0.437120] [D value on g(z): 0.683070] [D value on x: 0.720357] [G loss: 0.399236]
+classification: 0.9671
+[epoch: 350] [D loss: 0.522476] [D value on g(z): 0.726043] [D value on x: 0.630939] [G loss: 0.214259]
+classification: 0.9655
+[epoch: 351] [D loss: 0.663514] [D value on g(z): 0.703443] [D value on x: 0.757376] [G loss: 0.535794]
+classification: 0.9648
+[epoch: 352] [D loss: 0.479452] [D value on g(z): 0.798361] [D value on x: 0.759343] [G loss: 0.531392]
+classification: 0.9676
+[epoch: 353] [D loss: 0.399259] [D value on g(z): 0.730597] [D value on x: 0.761652] [G loss: 0.308595]
+classification: 0.967
+[epoch: 354] [D loss: 0.769339] [D value on g(z): 0.672296] [D value on x: 0.643619] [G loss: 0.928019]
+classification: 0.967
+[epoch: 355] [D loss: 0.683694] [D value on g(z): 0.741417] [D value on x: 0.698293] [G loss: 0.616221]
+classification: 0.9651
+[epoch: 356] [D loss: 0.521695] [D value on g(z): 0.716975] [D value on x: 0.546552] [G loss: 0.495823]
+classification: 0.9651
+[epoch: 357] [D loss: 0.448236] [D value on g(z): 0.745952] [D value on x: 0.783974] [G loss: 0.241141]
+classification: 0.9668
+[epoch: 358] [D loss: 0.715268] [D value on g(z): 0.709655] [D value on x: 0.778715] [G loss: 0.741787]
+classification: 0.965
+[epoch: 359] [D loss: 0.558090] [D value on g(z): 0.674906] [D value on x: 0.546013] [G loss: 0.518050]
+classification: 0.9664
+[epoch: 360] [D loss: 0.629516] [D value on g(z): 0.685866] [D value on x: 0.796516] [G loss: 0.553637]
+classification: 0.9655
+[epoch: 361] [D loss: 0.676759] [D value on g(z): 0.658773] [D value on x: 0.638059] [G loss: 0.671271]
+classification: 0.964
+[epoch: 362] [D loss: 0.525422] [D value on g(z): 0.760165] [D value on x: 0.611396] [G loss: 0.358429]
+classification: 0.9648
+[epoch: 363] [D loss: 0.634961] [D value on g(z): 0.667584] [D value on x: 0.661782] [G loss: 0.636148]
+classification: 0.965
+[epoch: 364] [D loss: 1.036116] [D value on g(z): 0.629780] [D value on x: 0.576649] [G loss: 1.101544]
+classification: 0.9627
+[epoch: 365] [D loss: 0.652448] [D value on g(z): 0.706084] [D value on x: 0.712336] [G loss: 0.775577]
+classification: 0.964
+[epoch: 366] [D loss: 0.444742] [D value on g(z): 0.737228] [D value on x: 0.666204] [G loss: 0.321849]
+classification: 0.9664
+[epoch: 367] [D loss: 0.413368] [D value on g(z): 0.694974] [D value on x: 0.711688] [G loss: 0.446378]
+classification: 0.9663
+[epoch: 368] [D loss: 0.583419] [D value on g(z): 0.682860] [D value on x: 0.671098] [G loss: 0.711203]
+classification: 0.9651
+[epoch: 369] [D loss: 0.497005] [D value on g(z): 0.694909] [D value on x: 0.570859] [G loss: 0.514640]
+classification: 0.9654
+[epoch: 370] [D loss: 0.453008] [D value on g(z): 0.719597] [D value on x: 0.668440] [G loss: 0.348809]
+classification: 0.9649
+[epoch: 371] [D loss: 0.517808] [D value on g(z): 0.734638] [D value on x: 0.654779] [G loss: 0.347423]
+classification: 0.9639
+[epoch: 372] [D loss: 0.694786] [D value on g(z): 0.695461] [D value on x: 0.581687] [G loss: 0.608369]
+classification: 0.9654
+[epoch: 373] [D loss: 0.656416] [D value on g(z): 0.758649] [D value on x: 0.595785] [G loss: 0.706424]
+classification: 0.9639
+[epoch: 374] [D loss: 0.522480] [D value on g(z): 0.705420] [D value on x: 0.764877] [G loss: 0.473027]
+classification: 0.9667
+[epoch: 375] [D loss: 0.811473] [D value on g(z): 0.648366] [D value on x: 0.632230] [G loss: 0.889524]
+classification: 0.9666
+[epoch: 376] [D loss: 0.894876] [D value on g(z): 0.666235] [D value on x: 0.643930] [G loss: 0.911610]
+classification: 0.9675
+[epoch: 377] [D loss: 0.472209] [D value on g(z): 0.690733] [D value on x: 0.671856] [G loss: 0.354373]
+classification: 0.9669
+[epoch: 378] [D loss: 0.477977] [D value on g(z): 0.745917] [D value on x: 0.517237] [G loss: 0.263858]
+classification: 0.965
+[epoch: 379] [D loss: 0.500546] [D value on g(z): 0.569480] [D value on x: 0.707894] [G loss: 0.530157]
+classification: 0.9642
+[epoch: 380] [D loss: 0.634504] [D value on g(z): 0.653095] [D value on x: 0.727002] [G loss: 0.523454]
+classification: 0.9651
+[epoch: 381] [D loss: 0.424946] [D value on g(z): 0.675510] [D value on x: 0.638481] [G loss: 0.431802]
+classification: 0.9664
+[epoch: 382] [D loss: 0.611176] [D value on g(z): 0.704345] [D value on x: 0.771432] [G loss: 0.459289]
+classification: 0.9663
+[epoch: 383] [D loss: 0.607521] [D value on g(z): 0.704978] [D value on x: 0.671991] [G loss: 0.490314]
+classification: 0.9669
+[epoch: 384] [D loss: 0.548107] [D value on g(z): 0.710114] [D value on x: 0.633513] [G loss: 0.551193]
+classification: 0.966
+[epoch: 385] [D loss: 0.646316] [D value on g(z): 0.691789] [D value on x: 0.608437] [G loss: 0.699130]
+classification: 0.9653
+[epoch: 386] [D loss: 0.586736] [D value on g(z): 0.709139] [D value on x: 0.725831] [G loss: 0.642183]
+classification: 0.9674
+[epoch: 387] [D loss: 0.430821] [D value on g(z): 0.677000] [D value on x: 0.640177] [G loss: 0.367133]
+classification: 0.9677
+[epoch: 388] [D loss: 0.544777] [D value on g(z): 0.701647] [D value on x: 0.740538] [G loss: 0.587734]
+classification: 0.9666
+[epoch: 389] [D loss: 0.650058] [D value on g(z): 0.651664] [D value on x: 0.728150] [G loss: 0.765041]
+classification: 0.9671
+[epoch: 390] [D loss: 0.645474] [D value on g(z): 0.620197] [D value on x: 0.583064] [G loss: 0.596641]
+classification: 0.9664
+[epoch: 391] [D loss: 0.555805] [D value on g(z): 0.685495] [D value on x: 0.780845] [G loss: 0.332783]
+classification: 0.966
+[epoch: 392] [D loss: 0.574173] [D value on g(z): 0.745491] [D value on x: 0.662789] [G loss: 0.572504]
+classification: 0.966
+[epoch: 393] [D loss: 0.523214] [D value on g(z): 0.704833] [D value on x: 0.707161] [G loss: 0.389954]
+classification: 0.9657
+[epoch: 394] [D loss: 0.386655] [D value on g(z): 0.670507] [D value on x: 0.645121] [G loss: 0.310718]
+classification: 0.9659
+[epoch: 395] [D loss: 0.446510] [D value on g(z): 0.768563] [D value on x: 0.749829] [G loss: 0.259179]
+classification: 0.968
+[epoch: 396] [D loss: 0.449613] [D value on g(z): 0.761995] [D value on x: 0.636077] [G loss: 0.293450]
+classification: 0.9662
+[epoch: 397] [D loss: 0.347313] [D value on g(z): 0.728648] [D value on x: 0.783068] [G loss: 0.274137]
+classification: 0.9677
+[epoch: 398] [D loss: 0.430920] [D value on g(z): 0.717392] [D value on x: 0.537511] [G loss: 0.205643]
+classification: 0.9668
+[epoch: 399] [D loss: 0.512859] [D value on g(z): 0.696152] [D value on x: 0.698978] [G loss: 0.386204]
+classification: 0.9659
+[epoch: 400] [D loss: 0.682997] [D value on g(z): 0.684510] [D value on x: 0.681990] [G loss: 0.641479]
+classification: 0.967
+[epoch: 401] [D loss: 0.494194] [D value on g(z): 0.606109] [D value on x: 0.668628] [G loss: 0.423722]
+classification: 0.9673
+[epoch: 402] [D loss: 0.863162] [D value on g(z): 0.598560] [D value on x: 0.621736] [G loss: 0.984959]
+classification: 0.9672
+[epoch: 403] [D loss: 0.590173] [D value on g(z): 0.671455] [D value on x: 0.684009] [G loss: 0.580152]
+classification: 0.966
+[epoch: 404] [D loss: 0.652553] [D value on g(z): 0.677103] [D value on x: 0.723090] [G loss: 0.608953]
+classification: 0.9681
+[epoch: 405] [D loss: 0.748666] [D value on g(z): 0.659396] [D value on x: 0.590224] [G loss: 0.906396]
+classification: 0.9649
+[epoch: 406] [D loss: 0.577813] [D value on g(z): 0.632503] [D value on x: 0.623738] [G loss: 0.466933]
+classification: 0.968
+[epoch: 407] [D loss: 0.439576] [D value on g(z): 0.648369] [D value on x: 0.663469] [G loss: 0.397186]
+classification: 0.9651
+[epoch: 408] [D loss: 0.670112] [D value on g(z): 0.703712] [D value on x: 0.678140] [G loss: 0.760207]
+classification: 0.9682
+[epoch: 409] [D loss: 0.503258] [D value on g(z): 0.650837] [D value on x: 0.660602] [G loss: 0.372587]
+classification: 0.9669
+[epoch: 410] [D loss: 0.836049] [D value on g(z): 0.689217] [D value on x: 0.592602] [G loss: 1.023661]
+classification: 0.968
+[epoch: 411] [D loss: 0.450655] [D value on g(z): 0.662436] [D value on x: 0.727724] [G loss: 0.403156]
+classification: 0.9664
+[epoch: 412] [D loss: 0.531784] [D value on g(z): 0.674851] [D value on x: 0.598492] [G loss: 0.404794]
+classification: 0.9669
+[epoch: 413] [D loss: 0.655810] [D value on g(z): 0.649709] [D value on x: 0.736847] [G loss: 0.732080]
+classification: 0.9648
+[epoch: 414] [D loss: 0.440854] [D value on g(z): 0.671761] [D value on x: 0.693404] [G loss: 0.331364]
+classification: 0.965
+[epoch: 415] [D loss: 0.663663] [D value on g(z): 0.632833] [D value on x: 0.610188] [G loss: 0.657523]
+classification: 0.967
+[epoch: 416] [D loss: 0.752106] [D value on g(z): 0.604055] [D value on x: 0.628917] [G loss: 0.679449]
+classification: 0.9668
+[epoch: 417] [D loss: 0.580685] [D value on g(z): 0.668407] [D value on x: 0.648881] [G loss: 0.583472]
+classification: 0.968
+[epoch: 418] [D loss: 0.534018] [D value on g(z): 0.698228] [D value on x: 0.741152] [G loss: 0.463745]
+classification: 0.9674
+[epoch: 419] [D loss: 0.422207] [D value on g(z): 0.668840] [D value on x: 0.744147] [G loss: 0.224324]
+classification: 0.9666
+[epoch: 420] [D loss: 0.652819] [D value on g(z): 0.673294] [D value on x: 0.633567] [G loss: 0.446140]
+classification: 0.9661
+[epoch: 421] [D loss: 0.552128] [D value on g(z): 0.665323] [D value on x: 0.861723] [G loss: 0.492246]
+classification: 0.9668
+[epoch: 422] [D loss: 0.631912] [D value on g(z): 0.665209] [D value on x: 0.700598] [G loss: 0.656814]
+classification: 0.9688
+[epoch: 423] [D loss: 0.387163] [D value on g(z): 0.636854] [D value on x: 0.776579] [G loss: 0.255791]
+classification: 0.9682
+[epoch: 424] [D loss: 0.683787] [D value on g(z): 0.649779] [D value on x: 0.601425] [G loss: 0.603954]
+classification: 0.9658
+[epoch: 425] [D loss: 0.802339] [D value on g(z): 0.627109] [D value on x: 0.713877] [G loss: 0.865041]
+classification: 0.9667
+[epoch: 426] [D loss: 0.783944] [D value on g(z): 0.673990] [D value on x: 0.606083] [G loss: 0.721753]
+classification: 0.9653
+[epoch: 427] [D loss: 0.604353] [D value on g(z): 0.621429] [D value on x: 0.689768] [G loss: 0.679035]
+classification: 0.9653
+[epoch: 428] [D loss: 0.780590] [D value on g(z): 0.668310] [D value on x: 0.593639] [G loss: 0.829763]
+classification: 0.9675
+[epoch: 429] [D loss: 0.596185] [D value on g(z): 0.616911] [D value on x: 0.656297] [G loss: 0.527516]
+classification: 0.9647
+[epoch: 430] [D loss: 0.376233] [D value on g(z): 0.663531] [D value on x: 0.685307] [G loss: 0.290243]
+classification: 0.9632
+[epoch: 431] [D loss: 0.509982] [D value on g(z): 0.600643] [D value on x: 0.683106] [G loss: 0.386442]
+classification: 0.964
+[epoch: 432] [D loss: 0.353633] [D value on g(z): 0.660179] [D value on x: 0.659014] [G loss: 0.216441]
+classification: 0.9635
+[epoch: 433] [D loss: 0.481801] [D value on g(z): 0.631937] [D value on x: 0.762375] [G loss: 0.468202]
+classification: 0.968
+[epoch: 434] [D loss: 0.550877] [D value on g(z): 0.649762] [D value on x: 0.720689] [G loss: 0.418845]
+classification: 0.9643
+[epoch: 435] [D loss: 0.708626] [D value on g(z): 0.662136] [D value on x: 0.652934] [G loss: 0.741895]
+classification: 0.9677
+[epoch: 436] [D loss: 0.699355] [D value on g(z): 0.684472] [D value on x: 0.634809] [G loss: 0.695286]
+classification: 0.9676
+[epoch: 437] [D loss: 1.010452] [D value on g(z): 0.489757] [D value on x: 0.551401] [G loss: 1.234492]
+classification: 0.9659
+[epoch: 438] [D loss: 0.557020] [D value on g(z): 0.579511] [D value on x: 0.628125] [G loss: 0.429795]
+classification: 0.9649
+[epoch: 439] [D loss: 0.809331] [D value on g(z): 0.653869] [D value on x: 0.563564] [G loss: 0.939698]
+classification: 0.9671
+[epoch: 440] [D loss: 0.659957] [D value on g(z): 0.692521] [D value on x: 0.534531] [G loss: 0.724596]
+classification: 0.9651
+[epoch: 441] [D loss: 0.566951] [D value on g(z): 0.592291] [D value on x: 0.644485] [G loss: 0.397057]
+classification: 0.9693
+[epoch: 442] [D loss: 0.615951] [D value on g(z): 0.630790] [D value on x: 0.631500] [G loss: 0.589335]
+classification: 0.9678
+[epoch: 443] [D loss: 0.545171] [D value on g(z): 0.624823] [D value on x: 0.523680] [G loss: 0.521539]
+classification: 0.9681
+[epoch: 444] [D loss: 0.627192] [D value on g(z): 0.672976] [D value on x: 0.546417] [G loss: 0.641545]
+classification: 0.9689
+[epoch: 445] [D loss: 0.415767] [D value on g(z): 0.679356] [D value on x: 0.643621] [G loss: 0.232155]
+classification: 0.9682
+[epoch: 446] [D loss: 0.487755] [D value on g(z): 0.659405] [D value on x: 0.633041] [G loss: 0.367045]
+classification: 0.9663
+[epoch: 447] [D loss: 0.763996] [D value on g(z): 0.664275] [D value on x: 0.518557] [G loss: 0.801499]
+classification: 0.9657
+[epoch: 448] [D loss: 0.735588] [D value on g(z): 0.654222] [D value on x: 0.604490] [G loss: 0.770336]
+classification: 0.9665
+[epoch: 449] [D loss: 0.496859] [D value on g(z): 0.645648] [D value on x: 0.710430] [G loss: 0.483376]
+classification: 0.9671
+[epoch: 450] [D loss: 0.543290] [D value on g(z): 0.652202] [D value on x: 0.657374] [G loss: 0.435948]
+classification: 0.9679
+[epoch: 451] [D loss: 0.537480] [D value on g(z): 0.630150] [D value on x: 0.624999] [G loss: 0.389263]
+classification: 0.9658
+[epoch: 452] [D loss: 0.673441] [D value on g(z): 0.678511] [D value on x: 0.548070] [G loss: 0.617253]
+classification: 0.9679
+[epoch: 453] [D loss: 0.690628] [D value on g(z): 0.622314] [D value on x: 0.616290] [G loss: 0.690647]
+classification: 0.9652
+[epoch: 454] [D loss: 0.863729] [D value on g(z): 0.591665] [D value on x: 0.632242] [G loss: 1.000170]
+classification: 0.9655
+[epoch: 455] [D loss: 0.679500] [D value on g(z): 0.615319] [D value on x: 0.556580] [G loss: 0.654570]
+classification: 0.9663
+[epoch: 456] [D loss: 0.568759] [D value on g(z): 0.673302] [D value on x: 0.644239] [G loss: 0.427967]
+classification: 0.9667
+[epoch: 457] [D loss: 0.648739] [D value on g(z): 0.628154] [D value on x: 0.653580] [G loss: 0.646617]
+classification: 0.966
+[epoch: 458] [D loss: 0.568769] [D value on g(z): 0.684210] [D value on x: 0.688943] [G loss: 0.420755]
+classification: 0.9632
+[epoch: 459] [D loss: 0.611064] [D value on g(z): 0.653216] [D value on x: 0.658333] [G loss: 0.515080]
+classification: 0.9653
+[epoch: 460] [D loss: 0.676087] [D value on g(z): 0.672438] [D value on x: 0.592730] [G loss: 0.641443]
+classification: 0.9672
+[epoch: 461] [D loss: 0.645540] [D value on g(z): 0.638586] [D value on x: 0.716658] [G loss: 0.621858]
+classification: 0.9651
+[epoch: 462] [D loss: 0.756524] [D value on g(z): 0.603669] [D value on x: 0.575052] [G loss: 0.704348]
+classification: 0.9663
+[epoch: 463] [D loss: 0.661194] [D value on g(z): 0.598657] [D value on x: 0.675937] [G loss: 0.480235]
+classification: 0.9657
+[epoch: 464] [D loss: 0.551574] [D value on g(z): 0.626615] [D value on x: 0.645408] [G loss: 0.422090]
+classification: 0.9672
+[epoch: 465] [D loss: 0.457220] [D value on g(z): 0.660304] [D value on x: 0.635781] [G loss: 0.274419]
+classification: 0.9675
+[epoch: 466] [D loss: 0.538814] [D value on g(z): 0.644077] [D value on x: 0.704419] [G loss: 0.537588]
+classification: 0.9653
+[epoch: 467] [D loss: 0.513388] [D value on g(z): 0.697248] [D value on x: 0.639867] [G loss: 0.382661]
+classification: 0.9638
+[epoch: 468] [D loss: 0.509678] [D value on g(z): 0.648313] [D value on x: 0.603067] [G loss: 0.327059]
+classification: 0.9681
+[epoch: 469] [D loss: 0.668803] [D value on g(z): 0.659499] [D value on x: 0.658305] [G loss: 0.473727]
+classification: 0.9657
+[epoch: 470] [D loss: 0.482971] [D value on g(z): 0.652364] [D value on x: 0.676564] [G loss: 0.345358]
+classification: 0.9673
+[epoch: 471] [D loss: 0.677491] [D value on g(z): 0.702561] [D value on x: 0.654236] [G loss: 0.831168]
+classification: 0.9665
+[epoch: 472] [D loss: 0.692869] [D value on g(z): 0.697441] [D value on x: 0.666321] [G loss: 0.737470]
+classification: 0.9659
+[epoch: 473] [D loss: 0.627324] [D value on g(z): 0.691984] [D value on x: 0.733349] [G loss: 0.718799]
+classification: 0.9663
+[epoch: 474] [D loss: 0.733160] [D value on g(z): 0.676233] [D value on x: 0.628456] [G loss: 0.578838]
+classification: 0.9648
+[epoch: 475] [D loss: 0.578180] [D value on g(z): 0.653795] [D value on x: 0.498109] [G loss: 0.472105]
+classification: 0.9643
+[epoch: 476] [D loss: 0.631430] [D value on g(z): 0.683495] [D value on x: 0.678008] [G loss: 0.536527]
+classification: 0.9647
+[epoch: 477] [D loss: 0.511601] [D value on g(z): 0.670874] [D value on x: 0.566121] [G loss: 0.329205]
+classification: 0.966
+[epoch: 478] [D loss: 0.959836] [D value on g(z): 0.636211] [D value on x: 0.614064] [G loss: 1.420660]
+classification: 0.9656
+[epoch: 479] [D loss: 0.601198] [D value on g(z): 0.653078] [D value on x: 0.635814] [G loss: 0.541088]
+classification: 0.9663
+[epoch: 480] [D loss: 0.523601] [D value on g(z): 0.676589] [D value on x: 0.602023] [G loss: 0.401548]
+classification: 0.9645
+[epoch: 481] [D loss: 0.477523] [D value on g(z): 0.576193] [D value on x: 0.614846] [G loss: 0.320423]
+classification: 0.9642
+[epoch: 482] [D loss: 0.519761] [D value on g(z): 0.676963] [D value on x: 0.512628] [G loss: 0.461282]
+classification: 0.9651
+[epoch: 483] [D loss: 0.702378] [D value on g(z): 0.728115] [D value on x: 0.620400] [G loss: 0.894009]
+classification: 0.9654
+[epoch: 484] [D loss: 0.431827] [D value on g(z): 0.593246] [D value on x: 0.570409] [G loss: 0.254739]
+classification: 0.966
+[epoch: 485] [D loss: 0.619032] [D value on g(z): 0.674300] [D value on x: 0.597147] [G loss: 0.414795]
+classification: 0.9647
+[epoch: 486] [D loss: 0.499387] [D value on g(z): 0.629890] [D value on x: 0.656748] [G loss: 0.435652]
+classification: 0.9636
+[epoch: 487] [D loss: 0.464342] [D value on g(z): 0.659173] [D value on x: 0.628323] [G loss: 0.303183]
+classification: 0.9663
+[epoch: 488] [D loss: 0.747828] [D value on g(z): 0.603763] [D value on x: 0.568863] [G loss: 0.759655]
+classification: 0.9652
+[epoch: 489] [D loss: 0.658471] [D value on g(z): 0.616944] [D value on x: 0.627701] [G loss: 0.406571]
+classification: 0.9637
+[epoch: 490] [D loss: 0.571369] [D value on g(z): 0.632207] [D value on x: 0.597981] [G loss: 0.179303]
+classification: 0.9627
+[epoch: 491] [D loss: 0.593315] [D value on g(z): 0.633985] [D value on x: 0.467070] [G loss: 0.419898]
+classification: 0.9642
+[epoch: 492] [D loss: 0.475463] [D value on g(z): 0.594660] [D value on x: 0.569630] [G loss: 0.328146]
+classification: 0.9647
+[epoch: 493] [D loss: 0.418620] [D value on g(z): 0.587819] [D value on x: 0.593016] [G loss: 0.388506]
+classification: 0.9639
+[epoch: 494] [D loss: 0.559150] [D value on g(z): 0.609874] [D value on x: 0.585588] [G loss: 0.441190]
+classification: 0.9659
+[epoch: 495] [D loss: 0.803197] [D value on g(z): 0.592860] [D value on x: 0.646708] [G loss: 0.955960]
+classification: 0.9634
+[epoch: 496] [D loss: 0.573310] [D value on g(z): 0.620359] [D value on x: 0.579809] [G loss: 0.424586]
+classification: 0.9671
+[epoch: 497] [D loss: 0.524984] [D value on g(z): 0.627805] [D value on x: 0.621439] [G loss: 0.322917]
+classification: 0.9649
+[epoch: 498] [D loss: 0.745760] [D value on g(z): 0.532623] [D value on x: 0.640048] [G loss: 0.774687]
+classification: 0.9637
+[epoch: 499] [D loss: 0.879131] [D value on g(z): 0.612322] [D value on x: 0.495631] [G loss: 0.912847]
+classification: 0.9637
+[epoch: 500] [D loss: 0.658156] [D value on g(z): 0.622916] [D value on x: 0.629687] [G loss: 0.604888]
+classification: 0.9637
+[epoch: 501] [D loss: 0.668778] [D value on g(z): 0.623184] [D value on x: 0.507820] [G loss: 0.593745]
+classification: 0.966
+[epoch: 502] [D loss: 0.508570] [D value on g(z): 0.608215] [D value on x: 0.562752] [G loss: 0.336028]
+classification: 0.9661
+[epoch: 503] [D loss: 0.643610] [D value on g(z): 0.587383] [D value on x: 0.494563] [G loss: 0.524384]
+classification: 0.9659
+[epoch: 504] [D loss: 0.878621] [D value on g(z): 0.661139] [D value on x: 0.587003] [G loss: 0.847499]
+classification: 0.9663
+[epoch: 505] [D loss: 0.522558] [D value on g(z): 0.537754] [D value on x: 0.570687] [G loss: 0.327675]
+classification: 0.9664
+[epoch: 506] [D loss: 0.600246] [D value on g(z): 0.596182] [D value on x: 0.609112] [G loss: 0.466397]
+classification: 0.9664
+[epoch: 507] [D loss: 0.448264] [D value on g(z): 0.617764] [D value on x: 0.533914] [G loss: 0.147493]
+classification: 0.964
+[epoch: 508] [D loss: 0.613780] [D value on g(z): 0.672072] [D value on x: 0.558937] [G loss: 0.632403]
+classification: 0.9667
+[epoch: 509] [D loss: 0.517812] [D value on g(z): 0.620234] [D value on x: 0.543112] [G loss: 0.406293]
+classification: 0.9652
+[epoch: 510] [D loss: 0.690247] [D value on g(z): 0.654464] [D value on x: 0.518149] [G loss: 0.490120]
+classification: 0.9675
+[epoch: 511] [D loss: 0.680697] [D value on g(z): 0.646492] [D value on x: 0.569551] [G loss: 0.613218]
+classification: 0.9668
+[epoch: 512] [D loss: 0.627235] [D value on g(z): 0.634875] [D value on x: 0.528251] [G loss: 0.484909]
+classification: 0.9661
+[epoch: 513] [D loss: 0.467128] [D value on g(z): 0.609058] [D value on x: 0.652640] [G loss: 0.323099]
+classification: 0.9662
+[epoch: 514] [D loss: 0.732668] [D value on g(z): 0.693195] [D value on x: 0.621746] [G loss: 0.693705]
+classification: 0.9678
+[epoch: 515] [D loss: 0.665773] [D value on g(z): 0.631799] [D value on x: 0.496723] [G loss: 0.732925]
+classification: 0.964
+[epoch: 516] [D loss: 0.630345] [D value on g(z): 0.638125] [D value on x: 0.586495] [G loss: 0.411205]
+classification: 0.9665
+[epoch: 517] [D loss: 0.855152] [D value on g(z): 0.628670] [D value on x: 0.585772] [G loss: 0.903981]
+classification: 0.9629
+[epoch: 518] [D loss: 0.470236] [D value on g(z): 0.667726] [D value on x: 0.696694] [G loss: 0.374356]
+classification: 0.966
+[epoch: 519] [D loss: 0.557959] [D value on g(z): 0.677806] [D value on x: 0.559932] [G loss: 0.453550]
+classification: 0.9654
+[epoch: 520] [D loss: 0.663415] [D value on g(z): 0.672039] [D value on x: 0.701095] [G loss: 0.608026]
+classification: 0.9663
+[epoch: 521] [D loss: 0.543707] [D value on g(z): 0.644276] [D value on x: 0.407566] [G loss: 0.246326]
+classification: 0.9667
+[epoch: 522] [D loss: 0.515265] [D value on g(z): 0.635683] [D value on x: 0.658751] [G loss: 0.308514]
+classification: 0.9681
+[epoch: 523] [D loss: 0.703120] [D value on g(z): 0.604899] [D value on x: 0.497529] [G loss: 0.503516]
+classification: 0.966
+[epoch: 524] [D loss: 0.656024] [D value on g(z): 0.603619] [D value on x: 0.620214] [G loss: 0.545035]
+classification: 0.9639
+[epoch: 525] [D loss: 0.662247] [D value on g(z): 0.534607] [D value on x: 0.560359] [G loss: 0.653174]
+classification: 0.9654
+[epoch: 526] [D loss: 0.958845] [D value on g(z): 0.527842] [D value on x: 0.486932] [G loss: 1.014260]
+classification: 0.966
+[epoch: 527] [D loss: 0.704747] [D value on g(z): 0.571410] [D value on x: 0.656653] [G loss: 0.633809]
+classification: 0.9675
+[epoch: 528] [D loss: 0.460382] [D value on g(z): 0.667283] [D value on x: 0.719902] [G loss: 0.405308]
+classification: 0.9651
+[epoch: 529] [D loss: 0.894059] [D value on g(z): 0.661494] [D value on x: 0.548290] [G loss: 1.103357]
+classification: 0.968
+[epoch: 530] [D loss: 0.730815] [D value on g(z): 0.653526] [D value on x: 0.672416] [G loss: 0.736281]
+classification: 0.9665
+[epoch: 531] [D loss: 0.881406] [D value on g(z): 0.633647] [D value on x: 0.568761] [G loss: 0.847475]
+classification: 0.9663
+[epoch: 532] [D loss: 0.671108] [D value on g(z): 0.600729] [D value on x: 0.558709] [G loss: 0.572843]
+classification: 0.9669
+[epoch: 533] [D loss: 0.564124] [D value on g(z): 0.675051] [D value on x: 0.556168] [G loss: 0.338647]
+classification: 0.9657
+[epoch: 534] [D loss: 0.772178] [D value on g(z): 0.658240] [D value on x: 0.652447] [G loss: 0.797318]
+classification: 0.9651
+[epoch: 535] [D loss: 0.669114] [D value on g(z): 0.639846] [D value on x: 0.582068] [G loss: 0.572748]
+classification: 0.9633
+[epoch: 536] [D loss: 0.606802] [D value on g(z): 0.614627] [D value on x: 0.617359] [G loss: 0.473479]
+classification: 0.9637
+[epoch: 537] [D loss: 0.534460] [D value on g(z): 0.595968] [D value on x: 0.595327] [G loss: 0.307509]
+classification: 0.9635
+[epoch: 538] [D loss: 0.584957] [D value on g(z): 0.592535] [D value on x: 0.527133] [G loss: 0.384193]
+classification: 0.9634
+[epoch: 539] [D loss: 0.808172] [D value on g(z): 0.584066] [D value on x: 0.508984] [G loss: 0.944025]
+classification: 0.9641
+[epoch: 540] [D loss: 0.727354] [D value on g(z): 0.570179] [D value on x: 0.699363] [G loss: 1.005801]
+classification: 0.9671
+[epoch: 541] [D loss: 0.645482] [D value on g(z): 0.614191] [D value on x: 0.562055] [G loss: 0.676339]
+classification: 0.967
+[epoch: 542] [D loss: 0.588848] [D value on g(z): 0.598623] [D value on x: 0.617084] [G loss: 0.371062]
+classification: 0.9674
+[epoch: 543] [D loss: 0.571263] [D value on g(z): 0.634230] [D value on x: 0.636028] [G loss: 0.321263]
+classification: 0.9658
+[epoch: 544] [D loss: 0.571893] [D value on g(z): 0.603420] [D value on x: 0.611934] [G loss: 0.487090]
+classification: 0.9678
+[epoch: 545] [D loss: 0.620695] [D value on g(z): 0.689934] [D value on x: 0.535448] [G loss: 0.565924]
+classification: 0.9642
+[epoch: 546] [D loss: 0.657547] [D value on g(z): 0.661064] [D value on x: 0.613276] [G loss: 0.530837]
+classification: 0.967
+[epoch: 547] [D loss: 0.576680] [D value on g(z): 0.534831] [D value on x: 0.571255] [G loss: 0.487826]
+classification: 0.9638
+[epoch: 548] [D loss: 0.786620] [D value on g(z): 0.608158] [D value on x: 0.530561] [G loss: 0.861247]
+classification: 0.9664
+[epoch: 549] [D loss: 0.540658] [D value on g(z): 0.675220] [D value on x: 0.686446] [G loss: 0.316942]
+classification: 0.9647
+[epoch: 550] [D loss: 0.539004] [D value on g(z): 0.628770] [D value on x: 0.688075] [G loss: 0.493266]
+classification: 0.9659
+[epoch: 551] [D loss: 0.644906] [D value on g(z): 0.626106] [D value on x: 0.679043] [G loss: 0.496767]
+classification: 0.9671
+[epoch: 552] [D loss: 0.601555] [D value on g(z): 0.716762] [D value on x: 0.657189] [G loss: 0.533953]
+classification: 0.9673
+[epoch: 553] [D loss: 0.766341] [D value on g(z): 0.639546] [D value on x: 0.656270] [G loss: 0.913017]
+classification: 0.9676
+[epoch: 554] [D loss: 0.480605] [D value on g(z): 0.651508] [D value on x: 0.687659] [G loss: 0.262965]
+classification: 0.9676
+[epoch: 555] [D loss: 0.739053] [D value on g(z): 0.634778] [D value on x: 0.618799] [G loss: 0.786336]
+classification: 0.9665
+[epoch: 556] [D loss: 0.562860] [D value on g(z): 0.629390] [D value on x: 0.557664] [G loss: 0.393733]
+classification: 0.9654
+[epoch: 557] [D loss: 0.564113] [D value on g(z): 0.573535] [D value on x: 0.634612] [G loss: 0.450524]
+classification: 0.9646
+[epoch: 558] [D loss: 0.553043] [D value on g(z): 0.630962] [D value on x: 0.688655] [G loss: 0.359024]
+classification: 0.9657
+[epoch: 559] [D loss: 0.603603] [D value on g(z): 0.635135] [D value on x: 0.651399] [G loss: 0.433961]
+classification: 0.9653
+[epoch: 560] [D loss: 0.591330] [D value on g(z): 0.601694] [D value on x: 0.603421] [G loss: 0.468761]
+classification: 0.9664
+[epoch: 561] [D loss: 0.907060] [D value on g(z): 0.652262] [D value on x: 0.647722] [G loss: 1.016341]
+classification: 0.9649
+[epoch: 562] [D loss: 0.675143] [D value on g(z): 0.610551] [D value on x: 0.459043] [G loss: 0.602052]
+classification: 0.9662
+[epoch: 563] [D loss: 0.655391] [D value on g(z): 0.657769] [D value on x: 0.625517] [G loss: 0.598546]
+classification: 0.9667
+[epoch: 564] [D loss: 0.820498] [D value on g(z): 0.643463] [D value on x: 0.623847] [G loss: 1.069223]
+classification: 0.9637
+[epoch: 565] [D loss: 0.740295] [D value on g(z): 0.630631] [D value on x: 0.581944] [G loss: 0.692842]
+classification: 0.9653
+[epoch: 566] [D loss: 0.473932] [D value on g(z): 0.646348] [D value on x: 0.639408] [G loss: 0.201584]
+classification: 0.9665
+[epoch: 567] [D loss: 0.803119] [D value on g(z): 0.581515] [D value on x: 0.640151] [G loss: 0.929388]
+classification: 0.9675
+[epoch: 568] [D loss: 0.668251] [D value on g(z): 0.578177] [D value on x: 0.672559] [G loss: 0.762524]
+classification: 0.9663
+[epoch: 569] [D loss: 0.698980] [D value on g(z): 0.571748] [D value on x: 0.634007] [G loss: 0.844209]
+classification: 0.9654
+[epoch: 570] [D loss: 0.778095] [D value on g(z): 0.559131] [D value on x: 0.633262] [G loss: 0.836332]
+classification: 0.966
+[epoch: 571] [D loss: 0.638814] [D value on g(z): 0.631387] [D value on x: 0.495689] [G loss: 0.583634]
+classification: 0.9649
+[epoch: 572] [D loss: 0.612682] [D value on g(z): 0.555833] [D value on x: 0.611628] [G loss: 0.409524]
+classification: 0.964
+[epoch: 573] [D loss: 0.715112] [D value on g(z): 0.621111] [D value on x: 0.517753] [G loss: 0.654110]
+classification: 0.9634
+[epoch: 574] [D loss: 0.574594] [D value on g(z): 0.619360] [D value on x: 0.622066] [G loss: 0.442378]
+classification: 0.9646
+[epoch: 575] [D loss: 0.083284] [D value on g(z): 0.980316] [D value on x: 0.976835] [G loss: 0.000099]
+classification: 0.9655
+[epoch: 576] [D loss: 0.083685] [D value on g(z): 0.983812] [D value on x: 0.966069] [G loss: 0.013937]
+classification: 0.9674
+[epoch: 577] [D loss: 0.628235] [D value on g(z): 0.607175] [D value on x: 0.627656] [G loss: 0.665694]
+classification: 0.9667
+[epoch: 578] [D loss: 0.414967] [D value on g(z): 0.680411] [D value on x: 0.691788] [G loss: 0.284271]
+classification: 0.967
+[epoch: 579] [D loss: 0.500167] [D value on g(z): 0.634498] [D value on x: 0.628950] [G loss: 0.377893]
+classification: 0.9669
+[epoch: 580] [D loss: 0.534496] [D value on g(z): 0.706965] [D value on x: 0.559474] [G loss: 0.312788]
+classification: 0.9643
+[epoch: 581] [D loss: 0.585675] [D value on g(z): 0.546332] [D value on x: 0.539855] [G loss: 0.493369]
+classification: 0.964
+[epoch: 582] [D loss: 0.721741] [D value on g(z): 0.683611] [D value on x: 0.507756] [G loss: 0.642263]
+classification: 0.9643
+[epoch: 583] [D loss: 0.691715] [D value on g(z): 0.606223] [D value on x: 0.461158] [G loss: 0.659811]
+classification: 0.9658
+[epoch: 584] [D loss: 0.630437] [D value on g(z): 0.592578] [D value on x: 0.580442] [G loss: 0.531738]
+classification: 0.9648
+[epoch: 585] [D loss: 0.617919] [D value on g(z): 0.684048] [D value on x: 0.558191] [G loss: 0.550125]
+classification: 0.9636
+[epoch: 586] [D loss: 0.617669] [D value on g(z): 0.630728] [D value on x: 0.705155] [G loss: 0.498493]
+classification: 0.9656
+[epoch: 587] [D loss: 0.717732] [D value on g(z): 0.684101] [D value on x: 0.618714] [G loss: 0.699953]
+classification: 0.9654
+[epoch: 588] [D loss: 0.578852] [D value on g(z): 0.657266] [D value on x: 0.611756] [G loss: 0.495847]
+classification: 0.9644
+[epoch: 589] [D loss: 0.720457] [D value on g(z): 0.569349] [D value on x: 0.636595] [G loss: 0.746150]
+classification: 0.9636
+[epoch: 590] [D loss: 0.526962] [D value on g(z): 0.594462] [D value on x: 0.596324] [G loss: 0.435229]
+classification: 0.9646
+[epoch: 591] [D loss: 0.615183] [D value on g(z): 0.599209] [D value on x: 0.482108] [G loss: 0.525205]
+classification: 0.9612
+[epoch: 592] [D loss: 0.584906] [D value on g(z): 0.657599] [D value on x: 0.619933] [G loss: 0.455983]
+classification: 0.961
+[epoch: 593] [D loss: 0.593444] [D value on g(z): 0.603015] [D value on x: 0.585820] [G loss: 0.641209]
+classification: 0.9648
+[epoch: 594] [D loss: 0.599041] [D value on g(z): 0.640754] [D value on x: 0.572399] [G loss: 0.620907]
+classification: 0.9648
+[epoch: 595] [D loss: 0.816374] [D value on g(z): 0.614460] [D value on x: 0.632716] [G loss: 0.867480]
+classification: 0.964
+[epoch: 596] [D loss: 0.575862] [D value on g(z): 0.614285] [D value on x: 0.480936] [G loss: 0.414653]
+classification: 0.9649
+[epoch: 597] [D loss: 0.781361] [D value on g(z): 0.592632] [D value on x: 0.536514] [G loss: 0.881205]
+classification: 0.9624
+[epoch: 598] [D loss: 0.555207] [D value on g(z): 0.653626] [D value on x: 0.717481] [G loss: 0.510051]
+classification: 0.965
+[epoch: 599] [D loss: 0.864601] [D value on g(z): 0.644954] [D value on x: 0.559527] [G loss: 1.040960]
+classification: 0.9644
+[epoch: 600] [D loss: 0.474376] [D value on g(z): 0.649676] [D value on x: 0.705891] [G loss: 0.344007]
+classification: 0.9659
+[epoch: 601] [D loss: 0.800575] [D value on g(z): 0.669755] [D value on x: 0.577239] [G loss: 0.738661]
+classification: 0.9649
+[epoch: 602] [D loss: 0.763100] [D value on g(z): 0.604519] [D value on x: 0.597608] [G loss: 0.884059]
+classification: 0.9631
+[epoch: 603] [D loss: 0.646724] [D value on g(z): 0.610162] [D value on x: 0.586364] [G loss: 0.568401]
+classification: 0.9656
+[epoch: 604] [D loss: 0.956399] [D value on g(z): 0.597523] [D value on x: 0.614289] [G loss: 0.774497]
+classification: 0.964
+[epoch: 605] [D loss: 0.911462] [D value on g(z): 0.650228] [D value on x: 0.582991] [G loss: 1.131414]
+classification: 0.9631
+[epoch: 606] [D loss: 0.521354] [D value on g(z): 0.607882] [D value on x: 0.678412] [G loss: 0.335774]
+classification: 0.9646
+[epoch: 607] [D loss: 0.702655] [D value on g(z): 0.622740] [D value on x: 0.610603] [G loss: 0.787401]
+classification: 0.9633
+[epoch: 608] [D loss: 0.750950] [D value on g(z): 0.585836] [D value on x: 0.658194] [G loss: 0.627333]
+classification: 0.9636
+[epoch: 609] [D loss: 0.657911] [D value on g(z): 0.573876] [D value on x: 0.524938] [G loss: 0.562469]
+classification: 0.9622
+[epoch: 610] [D loss: 0.787454] [D value on g(z): 0.572741] [D value on x: 0.550508] [G loss: 0.733365]
+classification: 0.9656
+[epoch: 611] [D loss: 0.440156] [D value on g(z): 0.615263] [D value on x: 0.593136] [G loss: 0.335298]
+classification: 0.9639
+[epoch: 612] [D loss: 0.530485] [D value on g(z): 0.617842] [D value on x: 0.582989] [G loss: 0.418541]
+classification: 0.9641
+[epoch: 613] [D loss: 0.517786] [D value on g(z): 0.680041] [D value on x: 0.558130] [G loss: 0.405146]
+classification: 0.9622
+[epoch: 614] [D loss: 0.939385] [D value on g(z): 0.611228] [D value on x: 0.645804] [G loss: 1.021119]
+classification: 0.966
+[epoch: 615] [D loss: 0.658328] [D value on g(z): 0.539235] [D value on x: 0.648557] [G loss: 0.680144]
+classification: 0.9644
+[epoch: 616] [D loss: 0.691374] [D value on g(z): 0.659612] [D value on x: 0.519548] [G loss: 0.585577]
+classification: 0.964
+[epoch: 617] [D loss: 0.742974] [D value on g(z): 0.691095] [D value on x: 0.606962] [G loss: 0.759911]
+classification: 0.9631
+[epoch: 618] [D loss: 0.628540] [D value on g(z): 0.613585] [D value on x: 0.503139] [G loss: 0.542891]
+classification: 0.9641
+[epoch: 619] [D loss: 0.635054] [D value on g(z): 0.557616] [D value on x: 0.624543] [G loss: 0.581755]
+classification: 0.9639
+[epoch: 620] [D loss: 0.698418] [D value on g(z): 0.589638] [D value on x: 0.455889] [G loss: 0.536073]
+classification: 0.964
+[epoch: 621] [D loss: 0.647148] [D value on g(z): 0.614489] [D value on x: 0.653724] [G loss: 0.391045]
+classification: 0.9639
+[epoch: 622] [D loss: 0.531364] [D value on g(z): 0.573331] [D value on x: 0.688869] [G loss: 0.371109]
+classification: 0.9658
+[epoch: 623] [D loss: 0.488017] [D value on g(z): 0.643282] [D value on x: 0.634533] [G loss: 0.317159]
+classification: 0.9628
+[epoch: 624] [D loss: 0.609993] [D value on g(z): 0.656082] [D value on x: 0.650488] [G loss: 0.497671]
+classification: 0.9639
+[epoch: 625] [D loss: 0.740997] [D value on g(z): 0.583319] [D value on x: 0.651556] [G loss: 0.878103]
+classification: 0.964
+[epoch: 626] [D loss: 0.679460] [D value on g(z): 0.659245] [D value on x: 0.571106] [G loss: 0.605469]
+classification: 0.9648
+[epoch: 627] [D loss: 0.695328] [D value on g(z): 0.646601] [D value on x: 0.601852] [G loss: 0.504126]
+classification: 0.9642
+[epoch: 628] [D loss: 0.859135] [D value on g(z): 0.599888] [D value on x: 0.551854] [G loss: 1.004925]
+classification: 0.9667
+[epoch: 629] [D loss: 0.524062] [D value on g(z): 0.565371] [D value on x: 0.596228] [G loss: 0.367518]
+classification: 0.9641
+[epoch: 630] [D loss: 0.683746] [D value on g(z): 0.572482] [D value on x: 0.618600] [G loss: 0.712650]
+classification: 0.9654
+[epoch: 631] [D loss: 0.582368] [D value on g(z): 0.600063] [D value on x: 0.559481] [G loss: 0.427383]
+classification: 0.9653
+[epoch: 632] [D loss: 0.821478] [D value on g(z): 0.627593] [D value on x: 0.562302] [G loss: 0.872416]
+classification: 0.9627
+[epoch: 633] [D loss: 0.675703] [D value on g(z): 0.583995] [D value on x: 0.652232] [G loss: 0.577204]
+classification: 0.9651
+[epoch: 634] [D loss: 0.688120] [D value on g(z): 0.650024] [D value on x: 0.624807] [G loss: 0.570447]
+classification: 0.9652
+[epoch: 635] [D loss: 0.665033] [D value on g(z): 0.592505] [D value on x: 0.595508] [G loss: 0.671349]
+classification: 0.965
+[epoch: 636] [D loss: 0.761786] [D value on g(z): 0.589257] [D value on x: 0.507964] [G loss: 0.806416]
+classification: 0.9631
+[epoch: 637] [D loss: 0.607921] [D value on g(z): 0.624160] [D value on x: 0.509421] [G loss: 0.480134]
+classification: 0.9651
+[epoch: 638] [D loss: 0.577032] [D value on g(z): 0.650858] [D value on x: 0.518749] [G loss: 0.526569]
+classification: 0.9647
+[epoch: 639] [D loss: 0.705796] [D value on g(z): 0.620879] [D value on x: 0.608355] [G loss: 0.745605]
+classification: 0.9659
+[epoch: 640] [D loss: 0.816798] [D value on g(z): 0.624451] [D value on x: 0.573960] [G loss: 0.838786]
+classification: 0.9655
+[epoch: 641] [D loss: 0.745607] [D value on g(z): 0.643679] [D value on x: 0.524818] [G loss: 0.697311]
+classification: 0.9678
+[epoch: 642] [D loss: 0.861833] [D value on g(z): 0.651391] [D value on x: 0.498584] [G loss: 0.933082]
+classification: 0.9639
+[epoch: 643] [D loss: 0.670494] [D value on g(z): 0.613334] [D value on x: 0.558254] [G loss: 0.635377]
+classification: 0.9617
+[epoch: 644] [D loss: 0.500268] [D value on g(z): 0.600235] [D value on x: 0.564310] [G loss: 0.344985]
+classification: 0.963
+[epoch: 645] [D loss: 0.589356] [D value on g(z): 0.570949] [D value on x: 0.571386] [G loss: 0.473788]
+classification: 0.9629
+[epoch: 646] [D loss: 0.859819] [D value on g(z): 0.599857] [D value on x: 0.668486] [G loss: 0.932178]
+classification: 0.9629
+[epoch: 647] [D loss: 0.627206] [D value on g(z): 0.635253] [D value on x: 0.521887] [G loss: 0.461588]
+classification: 0.9627
+[epoch: 648] [D loss: 0.712426] [D value on g(z): 0.568688] [D value on x: 0.535751] [G loss: 0.579088]
+classification: 0.961
+[epoch: 649] [D loss: 0.685207] [D value on g(z): 0.587694] [D value on x: 0.588379] [G loss: 0.687776]
+classification: 0.9624
+[epoch: 650] [D loss: 0.772313] [D value on g(z): 0.578084] [D value on x: 0.552188] [G loss: 0.631054]
+classification: 0.9632
+[epoch: 651] [D loss: 0.619245] [D value on g(z): 0.627239] [D value on x: 0.579424] [G loss: 0.547305]
+classification: 0.963
+[epoch: 652] [D loss: 0.594369] [D value on g(z): 0.662331] [D value on x: 0.588097] [G loss: 0.463409]
+classification: 0.9643
+[epoch: 653] [D loss: 0.636005] [D value on g(z): 0.705072] [D value on x: 0.644514] [G loss: 0.610952]
+classification: 0.9651
+[epoch: 654] [D loss: 0.673968] [D value on g(z): 0.636178] [D value on x: 0.652780] [G loss: 0.728411]
+classification: 0.9638
+[epoch: 655] [D loss: 0.703331] [D value on g(z): 0.555000] [D value on x: 0.613938] [G loss: 0.740742]
+classification: 0.965
+[epoch: 656] [D loss: 0.532149] [D value on g(z): 0.627851] [D value on x: 0.521124] [G loss: 0.411586]
+classification: 0.9639
+[epoch: 657] [D loss: 0.730188] [D value on g(z): 0.597484] [D value on x: 0.575882] [G loss: 0.619753]
+classification: 0.9629
+[epoch: 658] [D loss: 0.630425] [D value on g(z): 0.624857] [D value on x: 0.567927] [G loss: 0.501417]
+classification: 0.9644
+[epoch: 659] [D loss: 0.702974] [D value on g(z): 0.568881] [D value on x: 0.593646] [G loss: 0.678255]
+classification: 0.964
+[epoch: 660] [D loss: 0.601095] [D value on g(z): 0.591430] [D value on x: 0.499607] [G loss: 0.588219]
+classification: 0.9636
+[epoch: 661] [D loss: 0.919231] [D value on g(z): 0.565381] [D value on x: 0.487672] [G loss: 1.042158]
+classification: 0.9651
+[epoch: 662] [D loss: 0.924899] [D value on g(z): 0.641959] [D value on x: 0.523777] [G loss: 1.071010]
+classification: 0.9642
+[epoch: 663] [D loss: 0.713047] [D value on g(z): 0.587907] [D value on x: 0.574701] [G loss: 0.653387]
+classification: 0.9644
+[epoch: 664] [D loss: 0.653497] [D value on g(z): 0.572604] [D value on x: 0.502498] [G loss: 0.656687]
+classification: 0.9657
+[epoch: 665] [D loss: 0.750790] [D value on g(z): 0.571229] [D value on x: 0.615108] [G loss: 0.694361]
+classification: 0.9632
+[epoch: 666] [D loss: 0.695768] [D value on g(z): 0.623275] [D value on x: 0.646924] [G loss: 0.536050]
+classification: 0.9645
+[epoch: 667] [D loss: 0.630726] [D value on g(z): 0.602332] [D value on x: 0.500570] [G loss: 0.652016]
+classification: 0.9646
+[epoch: 668] [D loss: 0.705878] [D value on g(z): 0.606948] [D value on x: 0.616776] [G loss: 0.651221]
+classification: 0.9647
+[epoch: 669] [D loss: 0.920987] [D value on g(z): 0.569556] [D value on x: 0.590422] [G loss: 1.065136]
+classification: 0.9639
+[epoch: 670] [D loss: 0.703520] [D value on g(z): 0.643572] [D value on x: 0.607174] [G loss: 0.651208]
+classification: 0.9636
+[epoch: 671] [D loss: 0.668848] [D value on g(z): 0.577387] [D value on x: 0.609544] [G loss: 0.713524]
+classification: 0.9639
+[epoch: 672] [D loss: 0.802293] [D value on g(z): 0.591566] [D value on x: 0.499662] [G loss: 0.712566]
+classification: 0.9654
+[epoch: 673] [D loss: 0.701388] [D value on g(z): 0.595667] [D value on x: 0.629614] [G loss: 0.526171]
+classification: 0.9642
+[epoch: 674] [D loss: 0.641680] [D value on g(z): 0.581075] [D value on x: 0.614431] [G loss: 0.570396]
+classification: 0.9647
+[epoch: 675] [D loss: 0.619693] [D value on g(z): 0.571268] [D value on x: 0.458284] [G loss: 0.427236]
+classification: 0.9652
+[epoch: 676] [D loss: 0.593409] [D value on g(z): 0.567917] [D value on x: 0.588021] [G loss: 0.476367]
+classification: 0.9628
+[epoch: 677] [D loss: 0.757924] [D value on g(z): 0.628717] [D value on x: 0.473382] [G loss: 0.629910]
+classification: 0.9634
+[epoch: 678] [D loss: 0.916272] [D value on g(z): 0.629826] [D value on x: 0.574549] [G loss: 1.082483]
+classification: 0.962
+[epoch: 679] [D loss: 0.756509] [D value on g(z): 0.645621] [D value on x: 0.535754] [G loss: 0.697835]
+classification: 0.9639
+[epoch: 680] [D loss: 0.571499] [D value on g(z): 0.587992] [D value on x: 0.638174] [G loss: 0.383637]
+classification: 0.9649
+[epoch: 681] [D loss: 1.040366] [D value on g(z): 0.600304] [D value on x: 0.586885] [G loss: 1.319259]
+classification: 0.9638
+[epoch: 682] [D loss: 0.787320] [D value on g(z): 0.620134] [D value on x: 0.431706] [G loss: 0.735357]
+classification: 0.9651
+[epoch: 683] [D loss: 0.561531] [D value on g(z): 0.577965] [D value on x: 0.600256] [G loss: 0.497247]
+classification: 0.9633
+[epoch: 684] [D loss: 0.621722] [D value on g(z): 0.656780] [D value on x: 0.465831] [G loss: 0.468249]
+classification: 0.9663
+[epoch: 685] [D loss: 0.827093] [D value on g(z): 0.606351] [D value on x: 0.536804] [G loss: 0.872051]
+classification: 0.9657
+[epoch: 686] [D loss: 0.536087] [D value on g(z): 0.579085] [D value on x: 0.585283] [G loss: 0.408229]
+classification: 0.9658
+[epoch: 687] [D loss: 0.675143] [D value on g(z): 0.571365] [D value on x: 0.630991] [G loss: 0.566448]
+classification: 0.9654
+[epoch: 688] [D loss: 0.790087] [D value on g(z): 0.639332] [D value on x: 0.546170] [G loss: 0.835719]
+classification: 0.9664
+[epoch: 689] [D loss: 0.516779] [D value on g(z): 0.571673] [D value on x: 0.652367] [G loss: 0.464340]
+classification: 0.9653
+[epoch: 690] [D loss: 0.653260] [D value on g(z): 0.576225] [D value on x: 0.490976] [G loss: 0.562593]
+classification: 0.9656
+[epoch: 691] [D loss: 0.815003] [D value on g(z): 0.617082] [D value on x: 0.619251] [G loss: 0.538943]
+classification: 0.9671
+[epoch: 692] [D loss: 0.723108] [D value on g(z): 0.583013] [D value on x: 0.547274] [G loss: 0.814569]
+classification: 0.9657
+[epoch: 693] [D loss: 0.815734] [D value on g(z): 0.592624] [D value on x: 0.633790] [G loss: 0.943089]
+classification: 0.9672
+[epoch: 694] [D loss: 0.781488] [D value on g(z): 0.658219] [D value on x: 0.567919] [G loss: 0.849253]
+classification: 0.9666
+[epoch: 695] [D loss: 0.559051] [D value on g(z): 0.558469] [D value on x: 0.493722] [G loss: 0.493880]
+classification: 0.9686
+[epoch: 696] [D loss: 0.509704] [D value on g(z): 0.615086] [D value on x: 0.567866] [G loss: 0.372118]
+classification: 0.9657
+[epoch: 697] [D loss: 0.872353] [D value on g(z): 0.538020] [D value on x: 0.608337] [G loss: 1.112746]
+classification: 0.9658
+[epoch: 698] [D loss: 0.636837] [D value on g(z): 0.628943] [D value on x: 0.545546] [G loss: 0.536664]
+classification: 0.9636
+[epoch: 699] [D loss: 0.924446] [D value on g(z): 0.589601] [D value on x: 0.582528] [G loss: 0.969152]
+classification: 0.965
+[epoch: 700] [D loss: 0.668963] [D value on g(z): 0.615914] [D value on x: 0.458462] [G loss: 0.614583]
+classification: 0.9625
+[epoch: 701] [D loss: 0.672791] [D value on g(z): 0.632842] [D value on x: 0.595311] [G loss: 0.652674]
+classification: 0.963
+[epoch: 702] [D loss: 0.579142] [D value on g(z): 0.586339] [D value on x: 0.496966] [G loss: 0.466244]
+classification: 0.9622
+[epoch: 703] [D loss: 0.504112] [D value on g(z): 0.562526] [D value on x: 0.652689] [G loss: 0.266801]
+classification: 0.9629
+[epoch: 704] [D loss: 0.602783] [D value on g(z): 0.619257] [D value on x: 0.592928] [G loss: 0.460942]
+classification: 0.9637
+[epoch: 705] [D loss: 0.575984] [D value on g(z): 0.646057] [D value on x: 0.604034] [G loss: 0.436924]
+classification: 0.9651
+[epoch: 706] [D loss: 0.525761] [D value on g(z): 0.583974] [D value on x: 0.610247] [G loss: 0.306201]
+classification: 0.9649
+[epoch: 707] [D loss: 0.495697] [D value on g(z): 0.691156] [D value on x: 0.611491] [G loss: 0.389209]
+classification: 0.9674
+[epoch: 708] [D loss: 0.497212] [D value on g(z): 0.624681] [D value on x: 0.571112] [G loss: 0.251575]
+classification: 0.9668
+[epoch: 709] [D loss: 0.784559] [D value on g(z): 0.630503] [D value on x: 0.531385] [G loss: 0.798550]
+classification: 0.967
+[epoch: 710] [D loss: 0.660163] [D value on g(z): 0.554717] [D value on x: 0.549531] [G loss: 0.572272]
+classification: 0.9646
+[epoch: 711] [D loss: 0.581516] [D value on g(z): 0.573300] [D value on x: 0.611737] [G loss: 0.515193]
+classification: 0.9667
+[epoch: 712] [D loss: 0.683390] [D value on g(z): 0.633598] [D value on x: 0.540924] [G loss: 0.626779]
+classification: 0.9644
+[epoch: 713] [D loss: 0.637570] [D value on g(z): 0.574786] [D value on x: 0.654231] [G loss: 0.473536]
+classification: 0.9664
+[epoch: 714] [D loss: 0.597004] [D value on g(z): 0.564992] [D value on x: 0.500506] [G loss: 0.508979]
+classification: 0.9669
+[epoch: 715] [D loss: 0.472191] [D value on g(z): 0.711700] [D value on x: 0.561232] [G loss: 0.274219]
+classification: 0.9644
+[epoch: 716] [D loss: 0.615227] [D value on g(z): 0.611303] [D value on x: 0.624218] [G loss: 0.550251]
+classification: 0.9686
+[epoch: 717] [D loss: 0.908122] [D value on g(z): 0.625574] [D value on x: 0.548837] [G loss: 1.077020]
+classification: 0.9658
+[epoch: 718] [D loss: 0.526279] [D value on g(z): 0.580694] [D value on x: 0.577521] [G loss: 0.283227]
+classification: 0.9641
+[epoch: 719] [D loss: 0.926791] [D value on g(z): 0.594599] [D value on x: 0.517351] [G loss: 1.197195]
+classification: 0.9661
+[epoch: 720] [D loss: 0.621245] [D value on g(z): 0.620217] [D value on x: 0.637548] [G loss: 0.606033]
+classification: 0.9633
+[epoch: 721] [D loss: 0.692784] [D value on g(z): 0.615111] [D value on x: 0.643272] [G loss: 0.646943]
+classification: 0.9639
+[epoch: 722] [D loss: 0.734732] [D value on g(z): 0.570633] [D value on x: 0.591941] [G loss: 0.850236]
+classification: 0.965
+[epoch: 723] [D loss: 0.721469] [D value on g(z): 0.599481] [D value on x: 0.563993] [G loss: 0.702216]
+classification: 0.9641
+[epoch: 724] [D loss: 0.679971] [D value on g(z): 0.568816] [D value on x: 0.672897] [G loss: 0.672053]
+classification: 0.9625
+[epoch: 725] [D loss: 0.759795] [D value on g(z): 0.549936] [D value on x: 0.520614] [G loss: 0.818542]
+classification: 0.9647
+[epoch: 726] [D loss: 0.825289] [D value on g(z): 0.581319] [D value on x: 0.551412] [G loss: 0.920809]
+classification: 0.964
+[epoch: 727] [D loss: 0.551786] [D value on g(z): 0.558823] [D value on x: 0.558877] [G loss: 0.542265]
+classification: 0.9655
+[epoch: 728] [D loss: 0.991657] [D value on g(z): 0.593545] [D value on x: 0.594477] [G loss: 1.210783]
+classification: 0.9653
+[epoch: 729] [D loss: 0.678597] [D value on g(z): 0.557801] [D value on x: 0.570996] [G loss: 0.714194]
+classification: 0.9637
+[epoch: 730] [D loss: 0.723695] [D value on g(z): 0.561466] [D value on x: 0.518692] [G loss: 0.569049]
+classification: 0.9643
+[epoch: 731] [D loss: 0.691946] [D value on g(z): 0.641735] [D value on x: 0.591128] [G loss: 0.565373]
+classification: 0.9639
+[epoch: 732] [D loss: 0.618201] [D value on g(z): 0.614931] [D value on x: 0.596380] [G loss: 0.541662]
+classification: 0.9642
+[epoch: 733] [D loss: 0.821936] [D value on g(z): 0.662554] [D value on x: 0.541212] [G loss: 0.701936]
+classification: 0.9622
+[epoch: 734] [D loss: 0.855018] [D value on g(z): 0.615852] [D value on x: 0.536087] [G loss: 0.865202]
+classification: 0.9627
+[epoch: 735] [D loss: 0.571112] [D value on g(z): 0.584617] [D value on x: 0.624721] [G loss: 0.387710]
+classification: 0.961
+[epoch: 736] [D loss: 0.647558] [D value on g(z): 0.581927] [D value on x: 0.569959] [G loss: 0.506354]
+classification: 0.9606
+[epoch: 737] [D loss: 0.661902] [D value on g(z): 0.574176] [D value on x: 0.612649] [G loss: 0.605759]
+classification: 0.9612
+[epoch: 738] [D loss: 0.704693] [D value on g(z): 0.602863] [D value on x: 0.578151] [G loss: 0.802708]
+classification: 0.9627
+[epoch: 739] [D loss: 0.642335] [D value on g(z): 0.538369] [D value on x: 0.603824] [G loss: 0.470205]
+classification: 0.9631
+[epoch: 740] [D loss: 0.639971] [D value on g(z): 0.590663] [D value on x: 0.480849] [G loss: 0.514145]
+classification: 0.9635
+[epoch: 741] [D loss: 0.681768] [D value on g(z): 0.610990] [D value on x: 0.500911] [G loss: 0.632179]
+classification: 0.963
+[epoch: 742] [D loss: 0.868377] [D value on g(z): 0.546654] [D value on x: 0.501861] [G loss: 0.769927]
+classification: 0.9614
+[epoch: 743] [D loss: 0.666663] [D value on g(z): 0.521149] [D value on x: 0.448133] [G loss: 0.590617]
+classification: 0.9648
+[epoch: 744] [D loss: 0.766729] [D value on g(z): 0.547154] [D value on x: 0.586358] [G loss: 0.651130]
+classification: 0.9636
+[epoch: 745] [D loss: 0.689820] [D value on g(z): 0.583674] [D value on x: 0.506967] [G loss: 0.695638]
+classification: 0.9631
+[epoch: 746] [D loss: 0.995494] [D value on g(z): 0.560368] [D value on x: 0.559523] [G loss: 1.119831]
+classification: 0.9638
+[epoch: 747] [D loss: 0.812247] [D value on g(z): 0.512973] [D value on x: 0.507409] [G loss: 0.682652]
+classification: 0.9641
+[epoch: 748] [D loss: 0.702925] [D value on g(z): 0.613806] [D value on x: 0.529525] [G loss: 0.598263]
+classification: 0.965
+[epoch: 749] [D loss: 0.562686] [D value on g(z): 0.604117] [D value on x: 0.660301] [G loss: 0.502447]
+classification: 0.963
+[epoch: 750] [D loss: 0.797916] [D value on g(z): 0.550399] [D value on x: 0.585280] [G loss: 0.679649]
+classification: 0.9627
+[epoch: 751] [D loss: 0.683950] [D value on g(z): 0.577166] [D value on x: 0.533572] [G loss: 0.395739]
+classification: 0.9631
+[epoch: 752] [D loss: 0.710133] [D value on g(z): 0.590529] [D value on x: 0.586263] [G loss: 0.602627]
+classification: 0.9617
+[epoch: 753] [D loss: 0.849683] [D value on g(z): 0.508894] [D value on x: 0.508148] [G loss: 0.937337]
+classification: 0.9624
+[epoch: 754] [D loss: 0.694728] [D value on g(z): 0.528635] [D value on x: 0.526906] [G loss: 0.508596]
+classification: 0.9629
+[epoch: 755] [D loss: 0.820644] [D value on g(z): 0.581506] [D value on x: 0.529749] [G loss: 0.673445]
+classification: 0.9643
+[epoch: 756] [D loss: 0.550901] [D value on g(z): 0.622193] [D value on x: 0.627763] [G loss: 0.547877]
+classification: 0.9632
+[epoch: 757] [D loss: 0.751821] [D value on g(z): 0.600028] [D value on x: 0.663460] [G loss: 0.665889]
+classification: 0.9647
+[epoch: 758] [D loss: 0.645767] [D value on g(z): 0.590124] [D value on x: 0.540405] [G loss: 0.507813]
+classification: 0.9627
+[epoch: 759] [D loss: 0.644743] [D value on g(z): 0.548457] [D value on x: 0.545464] [G loss: 0.466259]
+classification: 0.9649
+[epoch: 760] [D loss: 0.554721] [D value on g(z): 0.599237] [D value on x: 0.558752] [G loss: 0.477497]
+classification: 0.9652
+[epoch: 761] [D loss: 0.522390] [D value on g(z): 0.607647] [D value on x: 0.662733] [G loss: 0.407318]
+classification: 0.9651
+[epoch: 762] [D loss: 0.666654] [D value on g(z): 0.630234] [D value on x: 0.532963] [G loss: 0.493282]
+classification: 0.9649
+[epoch: 763] [D loss: 0.817736] [D value on g(z): 0.504771] [D value on x: 0.618646] [G loss: 0.700419]
+classification: 0.9648
+[epoch: 764] [D loss: 0.556845] [D value on g(z): 0.601537] [D value on x: 0.583967] [G loss: 0.430679]
+classification: 0.9644
+[epoch: 765] [D loss: 0.969375] [D value on g(z): 0.582081] [D value on x: 0.535389] [G loss: 1.103203]
+classification: 0.9621
+[epoch: 766] [D loss: 0.819236] [D value on g(z): 0.591875] [D value on x: 0.448277] [G loss: 0.784803]
+classification: 0.9641
+[epoch: 767] [D loss: 0.662055] [D value on g(z): 0.605751] [D value on x: 0.528199] [G loss: 0.358578]
+classification: 0.962
+[epoch: 768] [D loss: 0.511720] [D value on g(z): 0.579148] [D value on x: 0.605671] [G loss: 0.519514]
+classification: 0.9638
+[epoch: 769] [D loss: 0.857512] [D value on g(z): 0.586854] [D value on x: 0.459910] [G loss: 0.935305]
+classification: 0.9641
+[epoch: 770] [D loss: 0.559825] [D value on g(z): 0.564633] [D value on x: 0.633591] [G loss: 0.407917]
+classification: 0.9647
+[epoch: 771] [D loss: 0.750922] [D value on g(z): 0.576093] [D value on x: 0.554473] [G loss: 0.603269]
+classification: 0.9641
+[epoch: 772] [D loss: 0.642720] [D value on g(z): 0.562001] [D value on x: 0.643285] [G loss: 0.580842]
+classification: 0.9654
+[epoch: 773] [D loss: 0.740200] [D value on g(z): 0.543877] [D value on x: 0.604874] [G loss: 0.647942]
+classification: 0.965
+[epoch: 774] [D loss: 0.843855] [D value on g(z): 0.596461] [D value on x: 0.667528] [G loss: 0.805860]
+classification: 0.9654
+[epoch: 775] [D loss: 0.564708] [D value on g(z): 0.595886] [D value on x: 0.601469] [G loss: 0.347314]
+classification: 0.9634
+[epoch: 776] [D loss: 0.707570] [D value on g(z): 0.609368] [D value on x: 0.553187] [G loss: 0.597758]
+classification: 0.9636
+[epoch: 777] [D loss: 0.596551] [D value on g(z): 0.568700] [D value on x: 0.618622] [G loss: 0.566375]
+classification: 0.965
+[epoch: 778] [D loss: 0.738849] [D value on g(z): 0.615878] [D value on x: 0.494142] [G loss: 0.764091]
+classification: 0.9638
+[epoch: 779] [D loss: 0.640870] [D value on g(z): 0.556736] [D value on x: 0.591143] [G loss: 0.430117]
+classification: 0.9627
+[epoch: 780] [D loss: 0.794044] [D value on g(z): 0.573604] [D value on x: 0.605648] [G loss: 0.660874]
+classification: 0.964
+[epoch: 781] [D loss: 0.776589] [D value on g(z): 0.638540] [D value on x: 0.571937] [G loss: 0.757405]
+classification: 0.9641
+[epoch: 782] [D loss: 0.870732] [D value on g(z): 0.584615] [D value on x: 0.712778] [G loss: 0.877771]
+classification: 0.9647
+[epoch: 783] [D loss: 0.716096] [D value on g(z): 0.559258] [D value on x: 0.558820] [G loss: 0.668522]
+classification: 0.9637
+[epoch: 784] [D loss: 0.632450] [D value on g(z): 0.614500] [D value on x: 0.617296] [G loss: 0.487886]
+classification: 0.9643
+[epoch: 785] [D loss: 0.653342] [D value on g(z): 0.610877] [D value on x: 0.582842] [G loss: 0.520378]
+classification: 0.9657
+[epoch: 786] [D loss: 0.519525] [D value on g(z): 0.635890] [D value on x: 0.671981] [G loss: 0.258389]
+classification: 0.9648
+[epoch: 787] [D loss: 0.683736] [D value on g(z): 0.513859] [D value on x: 0.615921] [G loss: 0.621739]
+classification: 0.9651
+[epoch: 788] [D loss: 0.776461] [D value on g(z): 0.630715] [D value on x: 0.610602] [G loss: 0.746178]
+classification: 0.9648
+[epoch: 789] [D loss: 0.803483] [D value on g(z): 0.526625] [D value on x: 0.653700] [G loss: 0.736962]
+classification: 0.9652
+[epoch: 790] [D loss: 0.741624] [D value on g(z): 0.626134] [D value on x: 0.621082] [G loss: 0.418475]
+classification: 0.9641
+[epoch: 791] [D loss: 0.861013] [D value on g(z): 0.622081] [D value on x: 0.553844] [G loss: 0.772752]
+classification: 0.9642
+[epoch: 792] [D loss: 0.835859] [D value on g(z): 0.526502] [D value on x: 0.507250] [G loss: 0.951524]
+classification: 0.9634
+[epoch: 793] [D loss: 0.720792] [D value on g(z): 0.568503] [D value on x: 0.497036] [G loss: 0.647208]
+classification: 0.9643
+[epoch: 794] [D loss: 0.756267] [D value on g(z): 0.581417] [D value on x: 0.612165] [G loss: 0.570019]
+classification: 0.9647
+[epoch: 795] [D loss: 0.737621] [D value on g(z): 0.528767] [D value on x: 0.593548] [G loss: 0.622710]
+classification: 0.9637
+[epoch: 796] [D loss: 0.954440] [D value on g(z): 0.616852] [D value on x: 0.634413] [G loss: 1.006120]
+classification: 0.9634
+[epoch: 797] [D loss: 0.786391] [D value on g(z): 0.591743] [D value on x: 0.554522] [G loss: 0.677583]
+classification: 0.9652
+[epoch: 798] [D loss: 0.549489] [D value on g(z): 0.561113] [D value on x: 0.568027] [G loss: 0.337579]
+classification: 0.9626
+[epoch: 799] [D loss: 0.829820] [D value on g(z): 0.604406] [D value on x: 0.612515] [G loss: 0.568344]
+classification: 0.9656
+[epoch: 800] [D loss: 0.731177] [D value on g(z): 0.506298] [D value on x: 0.574699] [G loss: 0.625192]
+classification: 0.9664
+[epoch: 801] [D loss: 0.719762] [D value on g(z): 0.738633] [D value on x: 0.586043] [G loss: 0.649936]
+classification: 0.9633
+[epoch: 802] [D loss: 0.757361] [D value on g(z): 0.600375] [D value on x: 0.581672] [G loss: 0.811754]
+classification: 0.9654
+[epoch: 803] [D loss: 0.935837] [D value on g(z): 0.563573] [D value on x: 0.556076] [G loss: 0.972380]
+classification: 0.9653
+[epoch: 804] [D loss: 0.752829] [D value on g(z): 0.519523] [D value on x: 0.576317] [G loss: 0.680645]
+classification: 0.9642
+[epoch: 805] [D loss: 0.787813] [D value on g(z): 0.590879] [D value on x: 0.531251] [G loss: 0.789577]
+classification: 0.9641
+[epoch: 806] [D loss: 0.620403] [D value on g(z): 0.541507] [D value on x: 0.594241] [G loss: 0.460956]
+classification: 0.9654
+[epoch: 807] [D loss: 0.748642] [D value on g(z): 0.644922] [D value on x: 0.543359] [G loss: 0.842412]
+classification: 0.9639
+[epoch: 808] [D loss: 0.823405] [D value on g(z): 0.579075] [D value on x: 0.590642] [G loss: 0.699865]
+classification: 0.9639
+[epoch: 809] [D loss: 0.959200] [D value on g(z): 0.519588] [D value on x: 0.655734] [G loss: 1.116398]
+classification: 0.9646
+[epoch: 810] [D loss: 0.940504] [D value on g(z): 0.562931] [D value on x: 0.529618] [G loss: 1.013167]
+classification: 0.9642
+[epoch: 811] [D loss: 0.796498] [D value on g(z): 0.550027] [D value on x: 0.571244] [G loss: 0.748074]
+classification: 0.9645
+[epoch: 812] [D loss: 0.605772] [D value on g(z): 0.563863] [D value on x: 0.567368] [G loss: 0.529773]
+classification: 0.9623
+[epoch: 813] [D loss: 0.659582] [D value on g(z): 0.547022] [D value on x: 0.543507] [G loss: 0.512203]
+classification: 0.9631
+[epoch: 814] [D loss: 0.836076] [D value on g(z): 0.563655] [D value on x: 0.561661] [G loss: 0.789663]
+classification: 0.963
+[epoch: 815] [D loss: 0.680676] [D value on g(z): 0.531659] [D value on x: 0.719498] [G loss: 0.687555]
+classification: 0.9628
+[epoch: 816] [D loss: 0.773158] [D value on g(z): 0.619370] [D value on x: 0.539619] [G loss: 0.693843]
+classification: 0.9633
+[epoch: 817] [D loss: 0.625433] [D value on g(z): 0.615067] [D value on x: 0.582101] [G loss: 0.594814]
+classification: 0.9631
+[epoch: 818] [D loss: 0.618330] [D value on g(z): 0.551747] [D value on x: 0.623488] [G loss: 0.378770]
+classification: 0.964
+[epoch: 819] [D loss: 0.840195] [D value on g(z): 0.557529] [D value on x: 0.490099] [G loss: 0.901858]
+classification: 0.9626
+[epoch: 820] [D loss: 0.741943] [D value on g(z): 0.561941] [D value on x: 0.624270] [G loss: 0.714255]
+classification: 0.9635
+[epoch: 821] [D loss: 0.638359] [D value on g(z): 0.553248] [D value on x: 0.563785] [G loss: 0.597493]
+classification: 0.9635
+[epoch: 822] [D loss: 0.857687] [D value on g(z): 0.600861] [D value on x: 0.629023] [G loss: 0.822238]
+classification: 0.9639
+[epoch: 823] [D loss: 0.725617] [D value on g(z): 0.511137] [D value on x: 0.569413] [G loss: 0.703227]
+classification: 0.9644
+[epoch: 824] [D loss: 0.778791] [D value on g(z): 0.539455] [D value on x: 0.625769] [G loss: 0.558832]
+classification: 0.9642
+[epoch: 825] [D loss: 0.754559] [D value on g(z): 0.576447] [D value on x: 0.575897] [G loss: 0.689120]
+classification: 0.9637
+[epoch: 826] [D loss: 0.762373] [D value on g(z): 0.539691] [D value on x: 0.613862] [G loss: 0.798283]
+classification: 0.9643
+[epoch: 827] [D loss: 0.856301] [D value on g(z): 0.549735] [D value on x: 0.605276] [G loss: 0.833230]
+classification: 0.9639
+[epoch: 828] [D loss: 0.800657] [D value on g(z): 0.546606] [D value on x: 0.569121] [G loss: 0.782111]
+classification: 0.9631
+[epoch: 829] [D loss: 0.704814] [D value on g(z): 0.580396] [D value on x: 0.518506] [G loss: 0.688430]
+classification: 0.9659
+[epoch: 830] [D loss: 0.667660] [D value on g(z): 0.570192] [D value on x: 0.552468] [G loss: 0.597251]
+classification: 0.9627
+[epoch: 831] [D loss: 0.583665] [D value on g(z): 0.534507] [D value on x: 0.611539] [G loss: 0.352119]
+classification: 0.9625
+[epoch: 832] [D loss: 0.732722] [D value on g(z): 0.517096] [D value on x: 0.550714] [G loss: 0.718307]
+classification: 0.9663
+[epoch: 833] [D loss: 0.673187] [D value on g(z): 0.538310] [D value on x: 0.524040] [G loss: 0.599320]
+classification: 0.9627
+[epoch: 834] [D loss: 0.749634] [D value on g(z): 0.556988] [D value on x: 0.493326] [G loss: 0.795119]
+classification: 0.965
+[epoch: 835] [D loss: 0.729371] [D value on g(z): 0.548083] [D value on x: 0.651028] [G loss: 0.661915]
+classification: 0.9629
+[epoch: 836] [D loss: 0.877651] [D value on g(z): 0.530695] [D value on x: 0.510988] [G loss: 0.888671]
+classification: 0.9635
+[epoch: 837] [D loss: 0.630891] [D value on g(z): 0.586525] [D value on x: 0.491546] [G loss: 0.450219]
+classification: 0.9635
+[epoch: 838] [D loss: 0.852878] [D value on g(z): 0.549360] [D value on x: 0.553553] [G loss: 0.792914]
+classification: 0.9623
+[epoch: 839] [D loss: 0.845915] [D value on g(z): 0.541793] [D value on x: 0.428077] [G loss: 0.747732]
+classification: 0.9638
+[epoch: 840] [D loss: 0.564518] [D value on g(z): 0.563625] [D value on x: 0.674184] [G loss: 0.401654]
+classification: 0.9639
+[epoch: 841] [D loss: 0.847764] [D value on g(z): 0.583023] [D value on x: 0.495777] [G loss: 0.684207]
+classification: 0.9643
+[epoch: 842] [D loss: 0.555756] [D value on g(z): 0.607754] [D value on x: 0.566088] [G loss: 0.299734]
+classification: 0.9662
+[epoch: 843] [D loss: 1.047649] [D value on g(z): 0.563781] [D value on x: 0.513534] [G loss: 1.172422]
+classification: 0.9647
+[epoch: 844] [D loss: 0.703470] [D value on g(z): 0.554223] [D value on x: 0.366395] [G loss: 0.558471]
+classification: 0.9653
+[epoch: 845] [D loss: 0.741974] [D value on g(z): 0.588434] [D value on x: 0.525556] [G loss: 0.652313]
+classification: 0.9647
+[epoch: 846] [D loss: 0.740979] [D value on g(z): 0.574633] [D value on x: 0.533381] [G loss: 0.623707]
+classification: 0.9645
+[epoch: 847] [D loss: 0.679830] [D value on g(z): 0.597488] [D value on x: 0.584403] [G loss: 0.724277]
+classification: 0.9635
+[epoch: 848] [D loss: 0.735417] [D value on g(z): 0.633857] [D value on x: 0.594257] [G loss: 0.679774]
+classification: 0.9626
+[epoch: 849] [D loss: 0.675952] [D value on g(z): 0.609715] [D value on x: 0.596045] [G loss: 0.568407]
+classification: 0.9637
+[epoch: 850] [D loss: 0.653679] [D value on g(z): 0.542831] [D value on x: 0.583274] [G loss: 0.581082]
+classification: 0.9633
+[epoch: 851] [D loss: 0.791228] [D value on g(z): 0.546184] [D value on x: 0.605947] [G loss: 0.733172]
+classification: 0.9639
+[epoch: 852] [D loss: 0.708368] [D value on g(z): 0.522224] [D value on x: 0.627404] [G loss: 0.664382]
+classification: 0.9635
+[epoch: 853] [D loss: 0.670676] [D value on g(z): 0.569515] [D value on x: 0.549410] [G loss: 0.441336]
+classification: 0.9637
+[epoch: 854] [D loss: 0.549078] [D value on g(z): 0.628378] [D value on x: 0.607556] [G loss: 0.357588]
+classification: 0.9646
+[epoch: 855] [D loss: 0.712178] [D value on g(z): 0.558932] [D value on x: 0.656881] [G loss: 0.650084]
+classification: 0.9632
+[epoch: 856] [D loss: 0.695028] [D value on g(z): 0.583379] [D value on x: 0.587169] [G loss: 0.555476]
+classification: 0.9646
+[epoch: 857] [D loss: 0.775545] [D value on g(z): 0.528688] [D value on x: 0.597368] [G loss: 0.752023]
+classification: 0.9642
+[epoch: 858] [D loss: 0.763416] [D value on g(z): 0.561444] [D value on x: 0.573474] [G loss: 0.689038]
+classification: 0.9647
+[epoch: 859] [D loss: 0.813402] [D value on g(z): 0.584897] [D value on x: 0.599238] [G loss: 0.706577]
+classification: 0.9641
+[epoch: 860] [D loss: 0.791538] [D value on g(z): 0.582760] [D value on x: 0.577482] [G loss: 0.678016]
+classification: 0.9646
+[epoch: 861] [D loss: 1.148562] [D value on g(z): 0.448895] [D value on x: 0.572518] [G loss: 1.438882]
+classification: 0.9624
+[epoch: 862] [D loss: 0.642392] [D value on g(z): 0.558879] [D value on x: 0.652531] [G loss: 0.642593]
+classification: 0.9643
+[epoch: 863] [D loss: 0.694995] [D value on g(z): 0.537284] [D value on x: 0.578579] [G loss: 0.662504]
+classification: 0.9634
+[epoch: 864] [D loss: 0.758960] [D value on g(z): 0.558505] [D value on x: 0.589175] [G loss: 0.785392]
+classification: 0.9626
+[epoch: 865] [D loss: 0.774288] [D value on g(z): 0.557985] [D value on x: 0.616250] [G loss: 0.695095]
+classification: 0.9633
+[epoch: 866] [D loss: 0.653072] [D value on g(z): 0.558730] [D value on x: 0.587951] [G loss: 0.426263]
+classification: 0.9653
+[epoch: 867] [D loss: 0.753888] [D value on g(z): 0.517539] [D value on x: 0.497791] [G loss: 0.660306]
+classification: 0.9632
+[epoch: 868] [D loss: 0.631099] [D value on g(z): 0.566474] [D value on x: 0.612694] [G loss: 0.483778]
+classification: 0.9615
+[epoch: 869] [D loss: 0.659326] [D value on g(z): 0.650481] [D value on x: 0.568172] [G loss: 0.699620]
+classification: 0.9642
+[epoch: 870] [D loss: 0.857931] [D value on g(z): 0.568985] [D value on x: 0.649593] [G loss: 1.044096]
+classification: 0.9628
+[epoch: 871] [D loss: 0.614208] [D value on g(z): 0.570402] [D value on x: 0.557901] [G loss: 0.573430]
+classification: 0.9637
+[epoch: 872] [D loss: 0.882795] [D value on g(z): 0.573019] [D value on x: 0.548605] [G loss: 1.000755]
+classification: 0.9636
+[epoch: 873] [D loss: 0.619757] [D value on g(z): 0.552543] [D value on x: 0.644361] [G loss: 0.466207]
+classification: 0.9633
+[epoch: 874] [D loss: 0.691685] [D value on g(z): 0.583943] [D value on x: 0.516515] [G loss: 0.502180]
+classification: 0.9628
+[epoch: 875] [D loss: 0.783022] [D value on g(z): 0.551726] [D value on x: 0.538862] [G loss: 0.662819]
+classification: 0.9635
+[epoch: 876] [D loss: 0.892262] [D value on g(z): 0.489632] [D value on x: 0.603425] [G loss: 1.109297]
+classification: 0.9637
+[epoch: 877] [D loss: 0.704697] [D value on g(z): 0.510892] [D value on x: 0.476577] [G loss: 0.712335]
+classification: 0.9646
+[epoch: 878] [D loss: 0.803588] [D value on g(z): 0.529119] [D value on x: 0.565327] [G loss: 0.671306]
+classification: 0.9641
+[epoch: 879] [D loss: 0.755356] [D value on g(z): 0.586104] [D value on x: 0.590682] [G loss: 0.648553]
+classification: 0.9626
+[epoch: 880] [D loss: 0.997936] [D value on g(z): 0.585359] [D value on x: 0.645615] [G loss: 1.122288]
+classification: 0.9638
+[epoch: 881] [D loss: 0.671286] [D value on g(z): 0.550898] [D value on x: 0.559769] [G loss: 0.549159]
+classification: 0.9621
+[epoch: 882] [D loss: 0.885379] [D value on g(z): 0.596575] [D value on x: 0.605198] [G loss: 0.917313]
+classification: 0.9643
+[epoch: 883] [D loss: 0.780907] [D value on g(z): 0.598340] [D value on x: 0.488603] [G loss: 0.863768]
+classification: 0.9645
+[epoch: 884] [D loss: 0.702550] [D value on g(z): 0.668298] [D value on x: 0.573852] [G loss: 0.594187]
+classification: 0.9624
+[epoch: 885] [D loss: 0.721394] [D value on g(z): 0.525094] [D value on x: 0.563112] [G loss: 0.723146]
+classification: 0.9642
+[epoch: 886] [D loss: 0.888003] [D value on g(z): 0.564749] [D value on x: 0.659839] [G loss: 0.966510]
+classification: 0.9642
+[epoch: 887] [D loss: 0.908195] [D value on g(z): 0.547975] [D value on x: 0.521850] [G loss: 1.037368]
+classification: 0.9621
+[epoch: 888] [D loss: 0.657425] [D value on g(z): 0.555721] [D value on x: 0.564914] [G loss: 0.418795]
+classification: 0.9639
+[epoch: 889] [D loss: 0.830266] [D value on g(z): 0.564854] [D value on x: 0.543705] [G loss: 0.958445]
+classification: 0.9621
+[epoch: 890] [D loss: 0.681119] [D value on g(z): 0.500726] [D value on x: 0.529853] [G loss: 0.479382]
+classification: 0.9633
+[epoch: 891] [D loss: 0.769513] [D value on g(z): 0.610541] [D value on x: 0.552960] [G loss: 0.612701]
+classification: 0.9643
+[epoch: 892] [D loss: 0.727737] [D value on g(z): 0.563174] [D value on x: 0.524902] [G loss: 0.700578]
+classification: 0.963
+[epoch: 893] [D loss: 0.717934] [D value on g(z): 0.530427] [D value on x: 0.589220] [G loss: 0.786048]
+classification: 0.9644
+[epoch: 894] [D loss: 0.742512] [D value on g(z): 0.588007] [D value on x: 0.503298] [G loss: 0.513355]
+classification: 0.9641
+[epoch: 895] [D loss: 0.746565] [D value on g(z): 0.552814] [D value on x: 0.652068] [G loss: 0.751173]
+classification: 0.9631
+[epoch: 896] [D loss: 0.687305] [D value on g(z): 0.583944] [D value on x: 0.539054] [G loss: 0.660415]
+classification: 0.9641
+[epoch: 897] [D loss: 0.785660] [D value on g(z): 0.543491] [D value on x: 0.625936] [G loss: 0.752519]
+classification: 0.9627
+[epoch: 898] [D loss: 0.584432] [D value on g(z): 0.576380] [D value on x: 0.508967] [G loss: 0.473866]
+classification: 0.9645
+[epoch: 899] [D loss: 0.984558] [D value on g(z): 0.551750] [D value on x: 0.569034] [G loss: 1.242558]
+classification: 0.9643
+[epoch: 900] [D loss: 0.718307] [D value on g(z): 0.507020] [D value on x: 0.556681] [G loss: 0.641791]
+classification: 0.9643
+[epoch: 901] [D loss: 0.834752] [D value on g(z): 0.585101] [D value on x: 0.507742] [G loss: 0.760651]
+classification: 0.9644
+[epoch: 902] [D loss: 0.702233] [D value on g(z): 0.584838] [D value on x: 0.599754] [G loss: 0.640419]
+classification: 0.9651
+[epoch: 903] [D loss: 0.853567] [D value on g(z): 0.568336] [D value on x: 0.596608] [G loss: 0.894135]
+classification: 0.9649
+[epoch: 904] [D loss: 0.545894] [D value on g(z): 0.616293] [D value on x: 0.520802] [G loss: 0.354153]
+classification: 0.9639
+[epoch: 905] [D loss: 0.721928] [D value on g(z): 0.581169] [D value on x: 0.542412] [G loss: 0.642449]
+classification: 0.9637
+[epoch: 906] [D loss: 0.826077] [D value on g(z): 0.605498] [D value on x: 0.508459] [G loss: 0.732217]
+classification: 0.9647
+[epoch: 907] [D loss: 0.684660] [D value on g(z): 0.523851] [D value on x: 0.536608] [G loss: 0.675840]
+classification: 0.9664
+[epoch: 908] [D loss: 0.759198] [D value on g(z): 0.551244] [D value on x: 0.520930] [G loss: 0.589623]
+classification: 0.9661
+[epoch: 909] [D loss: 0.709694] [D value on g(z): 0.536107] [D value on x: 0.536735] [G loss: 0.559299]
+classification: 0.9665
+[epoch: 910] [D loss: 0.648752] [D value on g(z): 0.571504] [D value on x: 0.557273] [G loss: 0.486836]
+classification: 0.9664
+[epoch: 911] [D loss: 0.670299] [D value on g(z): 0.495600] [D value on x: 0.461249] [G loss: 0.520892]
+classification: 0.9656
+[epoch: 912] [D loss: 0.738987] [D value on g(z): 0.597847] [D value on x: 0.614414] [G loss: 0.631035]
+classification: 0.9648
+[epoch: 913] [D loss: 0.873433] [D value on g(z): 0.570695] [D value on x: 0.615273] [G loss: 0.999487]
+classification: 0.9652
+[epoch: 914] [D loss: 0.719122] [D value on g(z): 0.600162] [D value on x: 0.542851] [G loss: 0.655591]
+classification: 0.965
+[epoch: 915] [D loss: 0.717990] [D value on g(z): 0.543161] [D value on x: 0.433275] [G loss: 0.457235]
+classification: 0.9644
+[epoch: 916] [D loss: 0.747358] [D value on g(z): 0.589288] [D value on x: 0.530080] [G loss: 0.825291]
+classification: 0.9657
+[epoch: 917] [D loss: 0.727252] [D value on g(z): 0.598374] [D value on x: 0.634140] [G loss: 0.640739]
+classification: 0.9654
+[epoch: 918] [D loss: 0.682330] [D value on g(z): 0.591709] [D value on x: 0.584515] [G loss: 0.636030]
+classification: 0.9669
+[epoch: 919] [D loss: 0.850260] [D value on g(z): 0.546534] [D value on x: 0.615113] [G loss: 1.052356]
+classification: 0.9659
+[epoch: 920] [D loss: 0.739800] [D value on g(z): 0.566441] [D value on x: 0.552135] [G loss: 0.669712]
+classification: 0.9658
+[epoch: 921] [D loss: 0.797734] [D value on g(z): 0.519628] [D value on x: 0.518138] [G loss: 0.805290]
+classification: 0.9671
+[epoch: 922] [D loss: 0.847323] [D value on g(z): 0.575217] [D value on x: 0.498157] [G loss: 0.802713]
+classification: 0.9663
+[epoch: 923] [D loss: 0.699032] [D value on g(z): 0.524686] [D value on x: 0.558043] [G loss: 0.656582]
+classification: 0.9665
+[epoch: 924] [D loss: 0.762665] [D value on g(z): 0.583418] [D value on x: 0.527044] [G loss: 0.622275]
+classification: 0.9652
+[epoch: 925] [D loss: 0.947071] [D value on g(z): 0.563888] [D value on x: 0.565438] [G loss: 1.110229]
+classification: 0.9662
+[epoch: 926] [D loss: 0.600326] [D value on g(z): 0.533582] [D value on x: 0.601540] [G loss: 0.505896]
+classification: 0.9643
+[epoch: 927] [D loss: 0.768807] [D value on g(z): 0.579446] [D value on x: 0.573848] [G loss: 0.773434]
+classification: 0.9656
+[epoch: 928] [D loss: 0.941447] [D value on g(z): 0.540773] [D value on x: 0.565391] [G loss: 1.069930]
+classification: 0.9671
+[epoch: 929] [D loss: 0.699727] [D value on g(z): 0.581499] [D value on x: 0.552103] [G loss: 0.721343]
+classification: 0.9665
+[epoch: 930] [D loss: 0.943664] [D value on g(z): 0.569938] [D value on x: 0.503144] [G loss: 1.091573]
+classification: 0.968
+[epoch: 931] [D loss: 0.687613] [D value on g(z): 0.572566] [D value on x: 0.500649] [G loss: 0.595052]
+classification: 0.9682
+[epoch: 932] [D loss: 0.614069] [D value on g(z): 0.503310] [D value on x: 0.603324] [G loss: 0.555853]
+classification: 0.9675
+[epoch: 933] [D loss: 0.778339] [D value on g(z): 0.582896] [D value on x: 0.536227] [G loss: 0.618524]
+classification: 0.9653
+[epoch: 934] [D loss: 0.755331] [D value on g(z): 0.587031] [D value on x: 0.576899] [G loss: 0.675249]
+classification: 0.9657
+[epoch: 935] [D loss: 0.755106] [D value on g(z): 0.573785] [D value on x: 0.642486] [G loss: 0.559422]
+classification: 0.9659
+[epoch: 936] [D loss: 0.874355] [D value on g(z): 0.500190] [D value on x: 0.534071] [G loss: 0.943982]
+classification: 0.9667
+[epoch: 937] [D loss: 0.973390] [D value on g(z): 0.578784] [D value on x: 0.507507] [G loss: 1.236992]
+classification: 0.9668
+[epoch: 938] [D loss: 0.907737] [D value on g(z): 0.606089] [D value on x: 0.553693] [G loss: 0.910465]
+classification: 0.9652
+[epoch: 939] [D loss: 0.779869] [D value on g(z): 0.559847] [D value on x: 0.496647] [G loss: 0.724791]
+classification: 0.9668
+[epoch: 940] [D loss: 0.624484] [D value on g(z): 0.577532] [D value on x: 0.551633] [G loss: 0.413708]
+classification: 0.9648
+[epoch: 941] [D loss: 0.762981] [D value on g(z): 0.523440] [D value on x: 0.546371] [G loss: 0.786407]
+classification: 0.9645
+[epoch: 942] [D loss: 0.683933] [D value on g(z): 0.472851] [D value on x: 0.522480] [G loss: 0.579813]
+classification: 0.9661
+[epoch: 943] [D loss: 0.684116] [D value on g(z): 0.565599] [D value on x: 0.601363] [G loss: 0.536617]
+classification: 0.9639
+[epoch: 944] [D loss: 0.755772] [D value on g(z): 0.508494] [D value on x: 0.533878] [G loss: 0.683133]
+classification: 0.9649
+[epoch: 945] [D loss: 0.801977] [D value on g(z): 0.538820] [D value on x: 0.548451] [G loss: 0.813841]
+classification: 0.9647
+[epoch: 946] [D loss: 0.701038] [D value on g(z): 0.487493] [D value on x: 0.514099] [G loss: 0.593908]
+classification: 0.9663
+[epoch: 947] [D loss: 0.702033] [D value on g(z): 0.574401] [D value on x: 0.560106] [G loss: 0.627160]
+classification: 0.9645
+[epoch: 948] [D loss: 0.580400] [D value on g(z): 0.601983] [D value on x: 0.516875] [G loss: 0.455630]
+classification: 0.9657
+[epoch: 949] [D loss: 0.854221] [D value on g(z): 0.564202] [D value on x: 0.485068] [G loss: 0.882704]
+classification: 0.9665
+[epoch: 950] [D loss: 0.620784] [D value on g(z): 0.600051] [D value on x: 0.606574] [G loss: 0.539751]
+classification: 0.9658
+[epoch: 951] [D loss: 0.970926] [D value on g(z): 0.566564] [D value on x: 0.521967] [G loss: 1.005956]
+classification: 0.9653
+[epoch: 952] [D loss: 0.867481] [D value on g(z): 0.547413] [D value on x: 0.557416] [G loss: 1.010945]
+classification: 0.9655
+[epoch: 953] [D loss: 0.732969] [D value on g(z): 0.552606] [D value on x: 0.442768] [G loss: 0.570122]
+classification: 0.9659
+[epoch: 954] [D loss: 0.854866] [D value on g(z): 0.540560] [D value on x: 0.653641] [G loss: 0.969380]
+classification: 0.9658
+[epoch: 955] [D loss: 0.753268] [D value on g(z): 0.557440] [D value on x: 0.532262] [G loss: 0.596437]
+classification: 0.9651
+[epoch: 956] [D loss: 0.818987] [D value on g(z): 0.556907] [D value on x: 0.649186] [G loss: 0.875155]
+classification: 0.9653
+[epoch: 957] [D loss: 0.724397] [D value on g(z): 0.567342] [D value on x: 0.552865] [G loss: 0.649206]
+classification: 0.964
+[epoch: 958] [D loss: 0.921126] [D value on g(z): 0.517669] [D value on x: 0.586271] [G loss: 0.967521]
+classification: 0.9651
+[epoch: 959] [D loss: 0.711967] [D value on g(z): 0.570377] [D value on x: 0.481285] [G loss: 0.543903]
+classification: 0.9629
+[epoch: 960] [D loss: 0.705086] [D value on g(z): 0.553848] [D value on x: 0.606644] [G loss: 0.427931]
+classification: 0.9618
+[epoch: 961] [D loss: 0.790192] [D value on g(z): 0.487164] [D value on x: 0.559312] [G loss: 0.703257]
+classification: 0.9627
+[epoch: 962] [D loss: 0.784793] [D value on g(z): 0.559516] [D value on x: 0.625206] [G loss: 0.817754]
+classification: 0.9638
+[epoch: 963] [D loss: 0.921515] [D value on g(z): 0.531283] [D value on x: 0.592106] [G loss: 1.060354]
+classification: 0.9645
+[epoch: 964] [D loss: 0.852845] [D value on g(z): 0.565060] [D value on x: 0.315305] [G loss: 0.718495]
+classification: 0.964
+[epoch: 965] [D loss: 0.739007] [D value on g(z): 0.551743] [D value on x: 0.566221] [G loss: 0.652491]
+classification: 0.9647
+[epoch: 966] [D loss: 0.824188] [D value on g(z): 0.550592] [D value on x: 0.488386] [G loss: 0.742505]
+classification: 0.9642
+[epoch: 967] [D loss: 0.842374] [D value on g(z): 0.553923] [D value on x: 0.541851] [G loss: 0.848133]
+classification: 0.9654
+[epoch: 968] [D loss: 0.711984] [D value on g(z): 0.554178] [D value on x: 0.496682] [G loss: 0.692889]
+classification: 0.9642
+[epoch: 969] [D loss: 0.758244] [D value on g(z): 0.548700] [D value on x: 0.482366] [G loss: 0.742194]
+classification: 0.9656
+[epoch: 970] [D loss: 0.845077] [D value on g(z): 0.573600] [D value on x: 0.511856] [G loss: 0.918059]
+classification: 0.9654
+[epoch: 971] [D loss: 0.666549] [D value on g(z): 0.589621] [D value on x: 0.561413] [G loss: 0.546078]
+classification: 0.967
+[epoch: 972] [D loss: 0.777691] [D value on g(z): 0.520112] [D value on x: 0.443142] [G loss: 0.600255]
+classification: 0.965
+[epoch: 973] [D loss: 0.777955] [D value on g(z): 0.563895] [D value on x: 0.508756] [G loss: 0.854411]
+classification: 0.9656
+[epoch: 974] [D loss: 0.692772] [D value on g(z): 0.536160] [D value on x: 0.583245] [G loss: 0.651777]
+classification: 0.9652
+[epoch: 975] [D loss: 0.827118] [D value on g(z): 0.540747] [D value on x: 0.511356] [G loss: 0.877923]
+classification: 0.9648
+[epoch: 976] [D loss: 0.935897] [D value on g(z): 0.513838] [D value on x: 0.540513] [G loss: 0.921711]
+classification: 0.9646
+[epoch: 977] [D loss: 0.683419] [D value on g(z): 0.571651] [D value on x: 0.543150] [G loss: 0.664075]
+classification: 0.964
+[epoch: 978] [D loss: 0.517965] [D value on g(z): 0.638374] [D value on x: 0.726800] [G loss: 0.441635]
+classification: 0.9633
+[epoch: 979] [D loss: 0.566958] [D value on g(z): 0.598594] [D value on x: 0.553603] [G loss: 0.347401]
+classification: 0.9648
+[epoch: 980] [D loss: 0.558607] [D value on g(z): 0.511891] [D value on x: 0.574241] [G loss: 0.293876]
+classification: 0.9641
+[epoch: 981] [D loss: 1.044021] [D value on g(z): 0.538945] [D value on x: 0.527473] [G loss: 1.112764]
+classification: 0.965
+[epoch: 982] [D loss: 0.742594] [D value on g(z): 0.519569] [D value on x: 0.412826] [G loss: 0.638689]
+classification: 0.965
+[epoch: 983] [D loss: 0.787404] [D value on g(z): 0.575824] [D value on x: 0.483593] [G loss: 0.781638]
+classification: 0.9654
+[epoch: 984] [D loss: 0.659214] [D value on g(z): 0.582696] [D value on x: 0.532228] [G loss: 0.461005]
+classification: 0.9645
+[epoch: 985] [D loss: 0.612443] [D value on g(z): 0.614261] [D value on x: 0.556422] [G loss: 0.412146]
+classification: 0.9637
+[epoch: 986] [D loss: 0.768746] [D value on g(z): 0.560122] [D value on x: 0.636809] [G loss: 0.641783]
+classification: 0.9645
+[epoch: 987] [D loss: 0.754035] [D value on g(z): 0.559080] [D value on x: 0.516775] [G loss: 0.706502]
+classification: 0.963
+[epoch: 988] [D loss: 0.716598] [D value on g(z): 0.564716] [D value on x: 0.543841] [G loss: 0.657538]
+classification: 0.9649
+[epoch: 989] [D loss: 0.642727] [D value on g(z): 0.580226] [D value on x: 0.519927] [G loss: 0.524568]
+classification: 0.9632
+[epoch: 990] [D loss: 0.773552] [D value on g(z): 0.547008] [D value on x: 0.512144] [G loss: 0.671171]
+classification: 0.9646
+[epoch: 991] [D loss: 0.872004] [D value on g(z): 0.555865] [D value on x: 0.518745] [G loss: 0.624299]
+classification: 0.963
+[epoch: 992] [D loss: 0.780241] [D value on g(z): 0.530723] [D value on x: 0.475076] [G loss: 0.736598]
+classification: 0.9639
+[epoch: 993] [D loss: 0.712570] [D value on g(z): 0.565647] [D value on x: 0.488100] [G loss: 0.469725]
+classification: 0.963
+[epoch: 994] [D loss: 0.641327] [D value on g(z): 0.542992] [D value on x: 0.545025] [G loss: 0.438471]
+classification: 0.9619
+[epoch: 995] [D loss: 0.843724] [D value on g(z): 0.579646] [D value on x: 0.524175] [G loss: 0.952655]
+classification: 0.9653
+[epoch: 996] [D loss: 0.753861] [D value on g(z): 0.524793] [D value on x: 0.479087] [G loss: 0.659681]
+classification: 0.9641
+[epoch: 997] [D loss: 0.748148] [D value on g(z): 0.543282] [D value on x: 0.519878] [G loss: 0.655811]
+classification: 0.965
+[epoch: 998] [D loss: 0.639459] [D value on g(z): 0.531459] [D value on x: 0.417293] [G loss: 0.419321]
+classification: 0.9648
+[epoch: 999] [D loss: 0.782497] [D value on g(z): 0.555115] [D value on x: 0.624295] [G loss: 0.909556]
+classification: 0.9648

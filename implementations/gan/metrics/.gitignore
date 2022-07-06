@@ -1,0 +1,16 @@
+.vscode
+
+cifar10
+stats
+*.npz
+
+venv
+__pycache__
+.python-version
+
+build
+dist
+pytorch_gan_metrics*
+.tox
+
+!pytorch_gan_metrics
